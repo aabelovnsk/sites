@@ -1,0 +1,13 @@
+{
+  "name": "Малая колея",
+  "short_name": "Малая колея",
+  "description": "Компактный архив малой путевой техники и узкой колеи: дрезины, автомотрисы, УЖД.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f3ebe1",
+  "theme_color": "#9b4a2e",
+  "lang": "ru",
+  "icons": [
+    {"src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml"}
+  ]
+}

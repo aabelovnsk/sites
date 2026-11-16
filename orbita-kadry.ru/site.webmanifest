@@ -1,0 +1,13 @@
+{
+  "name": "Орбита-кадры",
+  "short_name": "Орбита-кадры",
+  "description": "Архив видео и заметок о Земле с орбиты: районы, трассы пролётов и даты съёмки.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f1419",
+  "theme_color": "#e0a04a",
+  "lang": "ru",
+  "icons": [
+    {"src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml"}
+  ]
+}

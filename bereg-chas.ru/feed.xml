@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Берег-час</title>
+    <link>https://bereg-chas.ru/</link>
+    <description>Справочный сайт о приливах и отливах: берега, темы, азбука терминов и заметки.</description>
+    <language>ru</language>
+    <item>
+      <title>Отлив у Териберки</title>
+      <link>https://bereg-chas.ru/</link>
+      <guid>https://bereg-chas.ru/#Отлив у Териберки</guid>
+      <pubDate>2024-07-06</pubDate>
+      <description>Мурманская обл. · О. Рябова</description>
+    </item>
+    <item>
+      <title>Приливная волна в устье</title>
+      <link>https://bereg-chas.ru/</link>
+      <guid>https://bereg-chas.ru/#Приливная волна в устье</guid>
+      <pubDate>2025-03-12</pubDate>
+      <description>Мезень · Д. Харитонов</description>
+    </item>
+    <item>
+      <title>Маяк на низкой воде</title>
+      <link>https://bereg-chas.ru/</link>
+      <guid>https://bereg-chas.ru/#Маяк на низкой воде</guid>
+      <pubDate>2023-09-20</pubDate>
+      <description>Кольский залив · О. Рябова</description>
+    </item>
+    <item>
+      <title>Илистая кромка утром</title>
+      <link>https://bereg-chas.ru/</link>
+      <guid>https://bereg-chas.ru/#Илистая кромка утром</guid>
+      <pubDate>2024-05-17</pubDate>
+      <description>Кандалакша · открытый архив</description>
+    </item>
+    <item>
+      <title>Белая ночь и отлив</title>
+      <link>https://bereg-chas.ru/</link>
+      <guid>https://bereg-chas.ru/#Белая ночь и отлив</guid>
+      <pubDate>2024-06-29</pubDate>
+      <description>Мурманск · Д. Харитонов</description>
+    </item>
+    <item>
+      <title>Штормовой нагон</title>
+      <link>https://bereg-chas.ru/</link>
+      <guid>https://bereg-chas.ru/#Штормовой нагон</guid>
+      <pubDate>2023-11-03</pubDate>
+      <description>Севастополь · береговой дневник</description>
+    </item>
+    <item>
+      <title>Песчаная отмель</title>
+      <link>https://bereg-chas.ru/</link>
+      <guid>https://bereg-chas.ru/#Песчаная отмель</guid>
+      <pubDate>2025-04-25</pubDate>
+      <description>Анадырь · О. Рябова</description>
+    </item>
+    <item>
+      <title>Прилив у маяка Толбухин</title>
+      <link>https://bereg-chas.ru/</link>
+      <guid>https://bereg-chas.ru/#Прилив у маяка Толбухин</guid>
+      <pubDate>2024-08-14</pubDate>
+      <description>Кронштадт · открытый архив</description>
+    </item>
+  </channel>
+</rss>

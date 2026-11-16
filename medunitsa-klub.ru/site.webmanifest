@@ -1,0 +1,13 @@
+{
+  "name": "Медуница",
+  "short_name": "Медуница",
+  "description": "Клуб пчеловодов-любителей в Подольске: дневник ульев, календарь сезона и встречи.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f6f3e8",
+  "theme_color": "#b8860b",
+  "lang": "ru",
+  "icons": [
+    {"src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml"}
+  ]
+}

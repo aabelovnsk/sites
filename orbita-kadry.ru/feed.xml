@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Орбита-кадры</title>
+    <link>https://orbita-kadry.ru/</link>
+    <description>Архив видео и заметок о Земле с орбиты: районы, трассы пролётов и даты съёмки.</description>
+    <language>ru</language>
+    <item>
+      <title>Дунайская дельта сверху</title>
+      <link>https://orbita-kadry.ru/</link>
+      <guid>https://orbita-kadry.ru/#Дунайская дельта сверху</guid>
+      <pubDate>2024-02-11</pubDate>
+      <description>Европа / Чёрное море · архив ISS</description>
+    </item>
+    <item>
+      <title>Ночные огни Токио</title>
+      <link>https://orbita-kadry.ru/</link>
+      <guid>https://orbita-kadry.ru/#Ночные огни Токио</guid>
+      <pubDate>2023-12-04</pubDate>
+      <description>Япония · архив ISS</description>
+    </item>
+    <item>
+      <title>Амазонка в облаках</title>
+      <link>https://orbita-kadry.ru/</link>
+      <guid>https://orbita-kadry.ru/#Амазонка в облаках</guid>
+      <pubDate>2024-06-17</pubDate>
+      <description>Южная Америка · открытый архив</description>
+    </item>
+    <item>
+      <title>Сахара: дюны и тень</title>
+      <link>https://orbita-kadry.ru/</link>
+      <guid>https://orbita-kadry.ru/#Сахара: дюны и тень</guid>
+      <pubDate>2025-01-09</pubDate>
+      <description>Северная Африка · архив ISS</description>
+    </item>
+    <item>
+      <title>Ледники Патагонии</title>
+      <link>https://orbita-kadry.ru/</link>
+      <guid>https://orbita-kadry.ru/#Ледники Патагонии</guid>
+      <pubDate>2023-10-22</pubDate>
+      <description>Чили / Аргентина · открытый архив</description>
+    </item>
+    <item>
+      <title>Трасса над Уралом</title>
+      <link>https://orbita-kadry.ru/</link>
+      <guid>https://orbita-kadry.ru/#Трасса над Уралом</guid>
+      <pubDate>2024-09-03</pubDate>
+      <description>Россия · дневник пролёта</description>
+    </item>
+    <item>
+      <title>Коралловые рифы у Австралии</title>
+      <link>https://orbita-kadry.ru/</link>
+      <guid>https://orbita-kadry.ru/#Коралловые рифы у Австралии</guid>
+      <pubDate>2024-04-28</pubDate>
+      <description>Коралловое море · архив ISS</description>
+    </item>
+    <item>
+      <title>Зимняя Сибирь</title>
+      <link>https://orbita-kadry.ru/</link>
+      <guid>https://orbita-kadry.ru/#Зимняя Сибирь</guid>
+      <pubDate>2025-02-14</pubDate>
+      <description>Россия · дневник пролёта</description>
+    </item>
+  </channel>
+</rss>
