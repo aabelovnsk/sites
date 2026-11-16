@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Азбука Таро</title>
+    <link>https://taro-azbuka.ru/</link>
+    <description>Нейтральный справочник по картам таро</description>
+    <language>ru</language>
+    <item>
+      <title>Старшие арканы</title>
+      <link>https://taro-azbuka.ru/starshee/</link>
+      <description>Ключевые карты колоды</description>
+    </item>
+    <item>
+      <title>Младшие арканы</title>
+      <link>https://taro-azbuka.ru/mladshee/</link>
+      <description>Масти и повседневные темы</description>
+    </item>
+    <item>
+      <title>Расклады</title>
+      <link>https://taro-azbuka.ru/rasklady/</link>
+      <description>Простые схемы чтения</description>
+    </item>
+  </channel>
+</rss>

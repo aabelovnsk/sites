@@ -1,0 +1,11 @@
+{
+  "name": "Билеты кат. B",
+  "short_name": "Кат. B",
+  "description": "Учебные билеты ПДД категории B",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f3f5f2",
+  "theme_color": "#2d6a3e",
+  "lang": "ru",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}

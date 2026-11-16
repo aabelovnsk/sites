@@ -1,0 +1,17 @@
+{
+  "name": "Сонник Ночь",
+  "short_name": "Сонник Ночь",
+  "description": "Справочник толкования снов",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f0f7",
+  "theme_color": "#5c4a7a",
+  "lang": "ru",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

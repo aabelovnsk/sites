@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://taro-azbuka.ru/feed.xml

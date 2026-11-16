@@ -2,18 +2,26 @@
 
 Статические витрины (HTML/CSS) для выкладки в `root` nginx. Без VPN/proxy-лексики.
 
-## Таблица
+## Новые сайты (не NPVX-архив)
 
-| DOMAIN | Бренд | Ниша | Референс NPVX | Тон | Город | Палитра |
-|--------|-------|------|---------------|-----|-------|---------|
-| `rechnoy-stvor.ru` | Речной створ | речные знаки | bakeny.ru | справочный | Нижний Новгород | `#2f6f8f` / `#e8eef2` |
-| `orbita-kadry.ru` | Орбита-кадры | атлас с орбиты | nadir-atlas.ru | архив | Москва | `#e0a04a` / `#0f1419` |
-| `padun-sever.ru` | Падун | северные пороги | porogi-sever.ru | архив | Петрозаводск | `#3d6b55` / `#eef2ec` |
-| `malaya-koleya.ru` | Малая колея | УЖД / дрезины | dreziny.ru | справочный | Тула | `#9b4a2e` / `#f3ebe1` |
-| `skaly-zapisi.ru` | Скалы-записи | каньоны / парки | kanyon-video.ru | архив | Екатеринбург | `#b45a32` / `#f7f1ea` |
-| `rechnoy-lyod.ru` | Речной лёд | ледоход | ledohod-zapis.ru | архив | Архангельск | `#3a6d8f` / `#e9eef3` |
-| `bereg-chas.ru` | Берег-час | отлив–прилив | otliv-priliv.ru | справочный | Мурманск | `#1f7a7a` / `#e7f0f0` |
-| `medunitsa-klub.ru` | Медуница | клуб пчеловодов | roevoy.online | клубный | Подольск | `#b8860b` / `#f6f3e8` |
+| DOMAIN | Бренд | Ниша | Город | Палитра |
+|--------|-------|------|-------|---------|
+| `bilety-kat-b.ru` | Билеты кат. B | билеты ПДД категория B | Новосибирск | `#2d6a3e` / `#f3f5f2` |
+| `sonnik-noch.ru` | Сонник Ночь | толкование снов | Казань | `#5c4a7a` / `#f4f0f7` |
+| `taro-azbuka.ru` | Азбука Таро | справочник карт таро | Санкт-Петербург | `#6b2f3a` / `#f7f3ea` |
+
+## Ранее (нишевые архивы)
+
+| DOMAIN | Бренд | Ниша | Референс жанра |
+|--------|-------|------|----------------|
+| `rechnoy-stvor.ru` | Речной створ | речные знаки | bakeny.ru |
+| `orbita-kadry.ru` | Орбита-кадры | атлас с орбиты | nadir-atlas.ru |
+| `padun-sever.ru` | Падун | северные пороги | porogi-sever.ru |
+| `malaya-koleya.ru` | Малая колея | УЖД / дрезины | dreziny.ru |
+| `skaly-zapisi.ru` | Скалы-записи | каньоны / парки | kanyon-video.ru |
+| `rechnoy-lyod.ru` | Речной лёд | ледоход | ledohod-zapis.ru |
+| `bereg-chas.ru` | Берег-час | отлив–прилив | otliv-priliv.ru |
+| `medunitsa-klub.ru` | Медуница | клуб пчеловодов | roevoy.online |
 
 ## Деплой
 
@@ -39,8 +47,4 @@ server {
 }
 ```
 
-Перед продом замените ООО, город и email в подвале / контактах / политике.
-
-## Запасные имена
-
-`ogni-farvater.ru`, `zenit-lenta.ru`, `shum-poroga.ru`, `shpaly-uzkie.ru`, `krasnye-skaly.ru`, `shuga-dnevnik.ru`, `otmel-maya.ru`, `paseka-yug.ru`, `lom-kamnya.ru`, `tuman-ozera.ru`
+Перед продом замените ООО, город и email.

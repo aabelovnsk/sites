@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Билеты кат. B</title>
+    <link>https://bilety-kat-b.ru/</link>
+    <description>Учебные билеты и темы ПДД категории B</description>
+    <language>ru</language>
+    <item>
+      <title>Билет 01 — Общие положения</title>
+      <link>https://bilety-kat-b.ru/bilety/</link>
+      <guid>https://bilety-kat-b.ru/bilety/#01</guid>
+      <description>Учебный билет по общим положениям ПДД</description>
+    </item>
+    <item>
+      <title>Тренировка: 5 вопросов</title>
+      <link>https://bilety-kat-b.ru/trenirovka/</link>
+      <guid>https://bilety-kat-b.ru/trenirovka/</guid>
+      <description>Блок самопроверки</description>
+    </item>
+  </channel>
+</rss>
