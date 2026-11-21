@@ -64,3 +64,12 @@ a:hover { color: var(--ink); }
   .site-header { flex-direction: column; align-items: flex-start; gap: 0.7rem; }
   .list { columns: 1; }
 }
+
+.network { margin-top: 0.5rem; }
+.network p { max-width: 62ch; color: var(--muted); }
+.network-list { columns: 1; }
+@media (min-width: 640px) {
+  .network-list { columns: 2; }
+}
+.network-list a { text-decoration: none; }
+.network-list a:hover { text-decoration: underline; }

@@ -68,3 +68,12 @@ a:hover { color: var(--ink); }
 @keyframes moon-rise { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: none; } }
 @keyframes glow-soft { from { opacity: 0; transform: scale(0.98); } to { opacity: 1; transform: none; } }
 @media (max-width: 720px) { .site-header { flex-direction: column; align-items: flex-start; gap: 0.7rem; } }
+
+.network { margin-top: 0.5rem; }
+.network p { max-width: 62ch; color: var(--muted); }
+.network-list { columns: 1; }
+@media (min-width: 640px) {
+  .network-list { columns: 2; }
+}
+.network-list a { text-decoration: none; }
+.network-list a:hover { text-decoration: underline; }

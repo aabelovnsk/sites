@@ -21,3 +21,5 @@ root /var/www/numbers.astroesoteric.online;
 | moon.astroesoteric.online | Лунный Круг | лунный календарь / фазы | Мурманск | accent `#4a5f8a`, bg `#eef1f6`, ink `#1a2030` | `/`, `/fazy/`, `/kalendar/`, `/ritualy/`, `/znak-luny/`, `/o-kruge/`, `kontakty.html`, `politika.html` |
 
 Each site also includes `static/site.css`, `favicon.svg`, `robots.txt`, `feed.xml`, `site.webmanifest`, `health/index.json`, and `status/index.json`.
+
+Each homepage includes a **Смежные справочники** section with cross-links to the other seven `*.astroesoteric.online` cover sites.
