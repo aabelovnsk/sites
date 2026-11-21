@@ -1,0 +1,10 @@
+{
+  "name": "Небо Дня",
+  "short_name": "Небо Дня",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#eef2f7",
+  "theme_color": "#2f4f7a",
+  "lang": "ru",
+  "icons": [{"src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml"}]
+}

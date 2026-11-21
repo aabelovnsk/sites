@@ -1,0 +1,16 @@
+{
+  "name": "Число Смысла",
+  "short_name": "Число Смысла",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f1f8",
+  "theme_color": "#5b3d7a",
+  "lang": "ru",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

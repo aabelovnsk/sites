@@ -1,0 +1,10 @@
+{
+  "name": "Карта Рода",
+  "short_name": "Карта Рода",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#eef4f0",
+  "theme_color": "#3d5a4c",
+  "lang": "ru",
+  "icons": [{"src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml"}]
+}

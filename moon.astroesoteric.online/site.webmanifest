@@ -1,0 +1,10 @@
+{
+  "name": "Лунный Круг",
+  "short_name": "Лунный Круг",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#eef1f6",
+  "theme_color": "#4a5f8a",
+  "lang": "ru",
+  "icons": [{"src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml"}]
+}

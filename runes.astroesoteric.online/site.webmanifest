@@ -1,0 +1,10 @@
+{
+  "name": "Руны Севера",
+  "short_name": "Руны Севера",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#eef1ec",
+  "theme_color": "#3a4d3f",
+  "lang": "ru",
+  "icons": [{"src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml"}]
+}

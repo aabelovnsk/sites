@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Лунный Круг</title>
+    <link>https://moon.astroesoteric.online/</link>
+    <description>Справочник по лунным фазам</description>
+    <language>ru</language>
+    <item>
+      <title>Фазы</title>
+      <link>https://moon.astroesoteric.online/fazy/</link>
+      <guid>https://moon.astroesoteric.online/fazy/</guid>
+    </item>
+    <item>
+      <title>Календарь</title>
+      <link>https://moon.astroesoteric.online/kalendar/</link>
+      <guid>https://moon.astroesoteric.online/kalendar/</guid>
+    </item>
+  </channel>
+</rss>

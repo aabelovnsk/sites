@@ -1,0 +1,10 @@
+{
+  "name": "Линии Ладони",
+  "short_name": "Линии Ладони",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f6f0e6",
+  "theme_color": "#8a5a2b",
+  "lang": "ru",
+  "icons": [{"src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml"}]
+}

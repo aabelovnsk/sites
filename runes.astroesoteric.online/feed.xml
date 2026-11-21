@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Руны Севера</title>
+    <link>https://runes.astroesoteric.online/</link>
+    <description>Справочник по Elder Futhark</description>
+    <language>ru</language>
+    <item>
+      <title>Футарк</title>
+      <link>https://runes.astroesoteric.online/futhark/</link>
+      <guid>https://runes.astroesoteric.online/futhark/</guid>
+    </item>
+    <item>
+      <title>Расклады</title>
+      <link>https://runes.astroesoteric.online/rasklady/</link>
+      <guid>https://runes.astroesoteric.online/rasklady/</guid>
+    </item>
+  </channel>
+</rss>

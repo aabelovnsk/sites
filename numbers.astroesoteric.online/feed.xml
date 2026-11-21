@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Число Смысла</title>
+    <link>https://numbers.astroesoteric.online/</link>
+    <description>Справочник по нумерологии</description>
+    <language>ru</language>
+    <item>
+      <title>Числа от 1 до 9</title>
+      <link>https://numbers.astroesoteric.online/chisla/</link>
+      <guid>https://numbers.astroesoteric.online/chisla/</guid>
+      <description>Краткие значения однозначных чисел</description>
+    </item>
+    <item>
+      <title>О методе</title>
+      <link>https://numbers.astroesoteric.online/o-metode/</link>
+      <guid>https://numbers.astroesoteric.online/o-metode/</guid>
+      <description>Подход проекта к нумерологии</description>
+    </item>
+  </channel>
+</rss>

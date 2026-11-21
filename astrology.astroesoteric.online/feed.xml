@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Небо Дня</title>
+    <link>https://astrology.astroesoteric.online/</link>
+    <description>Справочник по астрологии</description>
+    <language>ru</language>
+    <item>
+      <title>Знаки зодиака</title>
+      <link>https://astrology.astroesoteric.online/znaki/</link>
+      <guid>https://astrology.astroesoteric.online/znaki/</guid>
+    </item>
+    <item>
+      <title>Планеты</title>
+      <link>https://astrology.astroesoteric.online/planety/</link>
+      <guid>https://astrology.astroesoteric.online/planety/</guid>
+    </item>
+  </channel>
+</rss>

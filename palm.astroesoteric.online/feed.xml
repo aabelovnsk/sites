@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Линии Ладони</title>
+    <link>https://palm.astroesoteric.online/</link>
+    <description>Справочник по хиромантии</description>
+    <language>ru</language>
+    <item>
+      <title>Основные линии</title>
+      <link>https://palm.astroesoteric.online/linii/</link>
+      <guid>https://palm.astroesoteric.online/linii/</guid>
+    </item>
+    <item>
+      <title>Практика</title>
+      <link>https://palm.astroesoteric.online/praktika/</link>
+      <guid>https://palm.astroesoteric.online/praktika/</guid>
+    </item>
+  </channel>
+</rss>

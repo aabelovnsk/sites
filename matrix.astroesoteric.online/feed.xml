@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Матрица Пути</title>
+    <link>https://matrix.astroesoteric.online/</link>
+    <description>Справочник по матрице судьбы</description>
+    <language>ru</language>
+    <item>
+      <title>Энергии</title>
+      <link>https://matrix.astroesoteric.online/energiya/</link>
+      <guid>https://matrix.astroesoteric.online/energiya/</guid>
+    </item>
+    <item>
+      <title>Учебный пример</title>
+      <link>https://matrix.astroesoteric.online/primer/</link>
+      <guid>https://matrix.astroesoteric.online/primer/</guid>
+    </item>
+  </channel>
+</rss>
