@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Стальной алхимик — фан-энциклопедия</title>
+    <link>https://alchemist.unqspace.tech/</link>
+    <description>Фан-энциклопедия о мире Стального алхимика: эквивалентный обмен и пути братьев.</description>
+    <language>ru</language>
+    <item>
+      <title>О мире</title>
+      <link>https://alchemist.unqspace.tech/o-mire/</link>
+      <guid>https://alchemist.unqspace.tech/o-mire/</guid>
+    </item>
+    <item>
+      <title>Сет энциклопедий</title>
+      <link>https://alchemist.unqspace.tech/set/</link>
+      <guid>https://alchemist.unqspace.tech/set/</guid>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Тетрадь смерти — фан-энциклопедия</title>
+    <link>https://note.unqspace.tech/</link>
+    <description>Любительские заметки о мире Тетради смерти</description>
+    <language>ru</language>
+    <item>
+      <title>О мире</title>
+      <link>https://note.unqspace.tech/o-mire/</link>
+      <guid>https://note.unqspace.tech/o-mire/</guid>
+    </item>
+    <item>
+      <title>Сет энциклопедий</title>
+      <link>https://note.unqspace.tech/set/</link>
+      <guid>https://note.unqspace.tech/set/</guid>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,12 @@
+{
+  "name": "Призрак в доспехах",
+  "short_name": "Призрак",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#061016",
+  "theme_color": "#2dd4bf",
+  "lang": "ru",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}

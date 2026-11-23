@@ -1,0 +1,10 @@
+{
+  "name": "Моя геройская академия",
+  "short_name": "Герои",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#e8f7f4",
+  "theme_color": "#d64545",
+  "lang": "ru",
+  "icons": [{"src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml"}]
+}

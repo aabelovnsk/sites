@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-label="Лабораторный CRT и кабели">
+  <rect width="1600" height="900" fill="#1f2b1c"/>
+  <g stroke="#2f6b3a" stroke-width="2" opacity="0.35">
+    <path d="M0 80 H1600"/><path d="M0 160 H1600"/><path d="M0 240 H1600"/><path d="M0 320 H1600"/>
+    <path d="M0 400 H1600"/><path d="M0 480 H1600"/><path d="M0 560 H1600"/><path d="M0 640 H1600"/>
+  </g>
+  <rect x="520" y="220" width="560" height="380" rx="18" fill="#141c12" stroke="#4caf60" stroke-width="8"/>
+  <rect x="560" y="260" width="480" height="280" fill="#0c140c"/>
+  <text x="600" y="360" fill="#4caf60" font-family="Consolas, monospace" font-size="42">WORLD LINE</text>
+  <text x="600" y="420" fill="#6fd87f" font-family="Consolas, monospace" font-size="28">divergence 1.048596</text>
+  <path d="M300 700 C420 620 500 760 640 680" fill="none" stroke="#8b6914" stroke-width="10"/>
+  <path d="M1000 700 C1120 620 1200 760 1400 650" fill="none" stroke="#8b6914" stroke-width="10"/>
+  <circle cx="300" cy="700" r="14" fill="#4caf60"/>
+  <circle cx="1400" cy="650" r="14" fill="#4caf60"/>
+</svg>

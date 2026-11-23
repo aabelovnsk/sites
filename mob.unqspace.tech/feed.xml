@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Моб Психо 100 — фан-энциклопедия</title>
+    <link>https://mob.unqspace.tech/</link>
+    <description>Спокойный справочник по миру Моб Психо 100</description>
+    <language>ru</language>
+    <item>
+      <title>О мире</title>
+      <link>https://mob.unqspace.tech/o-mire/</link>
+      <guid>https://mob.unqspace.tech/o-mire/</guid>
+    </item>
+    <item>
+      <title>Персонажи</title>
+      <link>https://mob.unqspace.tech/personazhi/</link>
+      <guid>https://mob.unqspace.tech/personazhi/</guid>
+    </item>
+    <item>
+      <title>Сет энциклопедии</title>
+      <link>https://mob.unqspace.tech/set/</link>
+      <guid>https://mob.unqspace.tech/set/</guid>
+    </item>
+  </channel>
+</rss>

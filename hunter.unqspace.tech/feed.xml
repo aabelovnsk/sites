@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Hunter × Hunter — фан-энциклопедия</title>
+    <link>https://hunter.unqspace.tech/</link>
+    <description>Справочник по миру Hunter × Hunter</description>
+    <language>ru</language>
+    <item>
+      <title>О мире</title>
+      <link>https://hunter.unqspace.tech/o-mire/</link>
+      <guid>https://hunter.unqspace.tech/o-mire/</guid>
+    </item>
+    <item>
+      <title>Персонажи</title>
+      <link>https://hunter.unqspace.tech/personazhi/</link>
+      <guid>https://hunter.unqspace.tech/personazhi/</guid>
+    </item>
+    <item>
+      <title>Сет энциклопедии</title>
+      <link>https://hunter.unqspace.tech/set/</link>
+      <guid>https://hunter.unqspace.tech/set/</guid>
+    </item>
+  </channel>
+</rss>

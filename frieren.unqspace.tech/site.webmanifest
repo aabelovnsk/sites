@@ -1,0 +1,10 @@
+{
+  "name": "Фрирен",
+  "short_name": "Фрирен",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#e7eef5",
+  "theme_color": "#7a8ea3",
+  "lang": "ru",
+  "icons": [{"src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml"}]
+}

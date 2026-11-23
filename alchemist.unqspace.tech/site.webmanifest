@@ -1,0 +1,10 @@
+{
+  "name": "Стальной алхимик",
+  "short_name": "Алхимик",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f3e6c8",
+  "theme_color": "#a67c2d",
+  "lang": "ru",
+  "icons": [{"src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml"}]
+}

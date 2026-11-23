@@ -1,0 +1,10 @@
+{
+  "name": "Драконий жемчуг",
+  "short_name": "Драконий жемчуг",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f6e6d2",
+  "theme_color": "#d45a12",
+  "lang": "ru",
+  "icons": [{"src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml"}]
+}

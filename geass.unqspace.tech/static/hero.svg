@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-label="Имперская тьма и фиолетовый знак">
+  <rect width="1600" height="900" fill="#121018"/>
+  <defs>
+    <radialGradient id="g" cx="50%" cy="40%" r="40%">
+      <stop offset="0%" stop-color="#7a5a9a" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#7a5a9a" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#g)"/>
+  <path d="M0 650 L200 520 L360 600 L520 480 L700 580 L880 450 L1080 560 L1280 470 L1600 560 L1600 900 L0 900 Z" fill="#1c1824"/>
+  <circle cx="800" cy="360" r="110" fill="none" stroke="#7a5a9a" stroke-width="8"/>
+  <circle cx="800" cy="360" r="48" fill="#5a3f78"/>
+  <path d="M800 300 L830 360 L800 420 L770 360 Z" fill="#cbb6e0"/>
+  <rect x="120" y="120" width="8" height="160" fill="#7a5a9a" opacity="0.5"/>
+  <rect x="1470" y="120" width="8" height="160" fill="#7a5a9a" opacity="0.5"/>
+</svg>

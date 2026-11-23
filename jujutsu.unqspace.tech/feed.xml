@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Магическая битва — фан-энциклопедия</title>
+    <link>https://jujutsu.unqspace.tech/</link>
+    <description>Фан-энциклопедия о мире Магической битвы: проклятия, школа и глубокий индиго.</description>
+    <language>ru</language>
+    <item>
+      <title>О мире</title>
+      <link>https://jujutsu.unqspace.tech/o-mire/</link>
+      <guid>https://jujutsu.unqspace.tech/o-mire/</guid>
+    </item>
+    <item>
+      <title>Сет энциклопедий</title>
+      <link>https://jujutsu.unqspace.tech/set/</link>
+      <guid>https://jujutsu.unqspace.tech/set/</guid>
+    </item>
+  </channel>
+</rss>

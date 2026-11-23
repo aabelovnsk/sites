@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Семья шпиона — фан-энциклопедия</title>
+    <link>https://spy.unqspace.tech/</link>
+    <description>Справочник по миру Семья шпиона</description>
+    <language>ru</language>
+    <item>
+      <title>О мире</title>
+      <link>https://spy.unqspace.tech/o-mire/</link>
+      <guid>https://spy.unqspace.tech/o-mire/</guid>
+    </item>
+    <item>
+      <title>Персонажи</title>
+      <link>https://spy.unqspace.tech/personazhi/</link>
+      <guid>https://spy.unqspace.tech/personazhi/</guid>
+    </item>
+    <item>
+      <title>Сет энциклопедии</title>
+      <link>https://spy.unqspace.tech/set/</link>
+      <guid>https://spy.unqspace.tech/set/</guid>
+    </item>
+  </channel>
+</rss>

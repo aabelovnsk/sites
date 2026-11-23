@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Моя геройская академия — фан-энциклопедия</title>
+    <link>https://hero.unqspace.tech/</link>
+    <description>Фан-энциклопедия о мире Моей геройской академии: школа, причуды и яркий бирюзовый день.</description>
+    <language>ru</language>
+    <item>
+      <title>О мире</title>
+      <link>https://hero.unqspace.tech/o-mire/</link>
+      <guid>https://hero.unqspace.tech/o-mire/</guid>
+    </item>
+    <item>
+      <title>Сет энциклопедий</title>
+      <link>https://hero.unqspace.tech/set/</link>
+      <guid>https://hero.unqspace.tech/set/</guid>
+    </item>
+  </channel>
+</rss>

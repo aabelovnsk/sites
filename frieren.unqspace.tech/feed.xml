@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Фрирен — фан-энциклопедия</title>
+    <link>https://frieren.unqspace.tech/</link>
+    <description>Справочник по миру Фрирен</description>
+    <language>ru</language>
+    <item>
+      <title>О мире</title>
+      <link>https://frieren.unqspace.tech/o-mire/</link>
+      <guid>https://frieren.unqspace.tech/o-mire/</guid>
+    </item>
+    <item>
+      <title>Персонажи</title>
+      <link>https://frieren.unqspace.tech/personazhi/</link>
+      <guid>https://frieren.unqspace.tech/personazhi/</guid>
+    </item>
+    <item>
+      <title>Сет энциклопедии</title>
+      <link>https://frieren.unqspace.tech/set/</link>
+      <guid>https://frieren.unqspace.tech/set/</guid>
+    </item>
+  </channel>
+</rss>

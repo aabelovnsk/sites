@@ -1,0 +1,10 @@
+{
+  "name": "Код Гиас",
+  "short_name": "Код Гиас",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#121018",
+  "theme_color": "#6b4f8a",
+  "lang": "ru",
+  "icons": [{"src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml"}]
+}

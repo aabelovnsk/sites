@@ -1,0 +1,12 @@
+{
+  "name": "Истребитель демонов",
+  "short_name": "Клинок",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#12080a",
+  "theme_color": "#c41e3a",
+  "lang": "ru",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}

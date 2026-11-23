@@ -1,0 +1,10 @@
+{
+  "name": "Человек-бензопила",
+  "short_name": "Бензопила",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#121212",
+  "theme_color": "#e8d12a",
+  "lang": "ru",
+  "icons": [{"src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml"}]
+}

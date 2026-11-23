@@ -1,0 +1,12 @@
+{
+  "name": "One Piece",
+  "short_name": "Море",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b2a3a",
+  "theme_color": "#d4a017",
+  "lang": "ru",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}

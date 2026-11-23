@@ -1,0 +1,10 @@
+{
+  "name": "Hunter × Hunter",
+  "short_name": "Hunter",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#e9f0e4",
+  "theme_color": "#2f6b3a",
+  "lang": "ru",
+  "icons": [{"src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml"}]
+}

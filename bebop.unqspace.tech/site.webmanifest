@@ -1,0 +1,10 @@
+{
+  "name": "Ковбой Бибоп",
+  "short_name": "Бибоп",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0e1a2e",
+  "theme_color": "#c9a227",
+  "lang": "ru",
+  "icons": [{"src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml"}]
+}

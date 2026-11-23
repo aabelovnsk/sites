@@ -1,0 +1,12 @@
+{
+  "name": "Наруто",
+  "short_name": "Лист",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1a2e1c",
+  "theme_color": "#e85d04",
+  "lang": "ru",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}

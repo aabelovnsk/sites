@@ -1,0 +1,10 @@
+{
+  "name": "Тетрадь смерти",
+  "short_name": "Тетрадь смерти",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0c0c0c",
+  "theme_color": "#c4b48a",
+  "lang": "ru",
+  "icons": [{"src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml"}]
+}

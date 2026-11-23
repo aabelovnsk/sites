@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>One Piece</title>
+    <link>https://piece.unqspace.tech/</link>
+    <description>Фан-энциклопедия «One Piece»</description>
+    <language>ru</language>
+    <item>
+      <title>О мире</title>
+      <link>https://piece.unqspace.tech/o-mire/</link>
+      <description>Атмосфера и символы</description>
+    </item>
+    <item>
+      <title>Сеть энциклопедий</title>
+      <link>https://piece.unqspace.tech/set/</link>
+      <description>Каталог всех сайтов проекта</description>
+    </item>
+  </channel>
+</rss>

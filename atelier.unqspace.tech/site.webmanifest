@@ -1,0 +1,12 @@
+{
+  "name": "Ателье колдовских колпаков",
+  "short_name": "Ателье",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f3ead7",
+  "theme_color": "#3d2a6d",
+  "lang": "ru",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}

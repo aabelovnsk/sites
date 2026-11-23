@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Человек-бензопила — фан-энциклопедия</title>
+    <link>https://chainsaw.unqspace.tech/</link>
+    <description>Справочник по миру Человека-бензопилы</description>
+    <language>ru</language>
+    <item>
+      <title>О мире</title>
+      <link>https://chainsaw.unqspace.tech/o-mire/</link>
+      <guid>https://chainsaw.unqspace.tech/o-mire/</guid>
+    </item>
+    <item>
+      <title>Персонажи</title>
+      <link>https://chainsaw.unqspace.tech/personazhi/</link>
+      <guid>https://chainsaw.unqspace.tech/personazhi/</guid>
+    </item>
+    <item>
+      <title>Сет энциклопедии</title>
+      <link>https://chainsaw.unqspace.tech/set/</link>
+      <guid>https://chainsaw.unqspace.tech/set/</guid>
+    </item>
+  </channel>
+</rss>

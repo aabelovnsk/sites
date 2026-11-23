@@ -1,0 +1,10 @@
+{
+  "name": "Врата Штейна",
+  "short_name": "Врата Штейна",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1a2418",
+  "theme_color": "#3d8f4a",
+  "lang": "ru",
+  "icons": [{"src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml"}]
+}

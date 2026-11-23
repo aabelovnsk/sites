@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Токийский гуль — фан-энциклопедия</title>
+    <link>https://ghoul.unqspace.tech/</link>
+    <description>Фан-энциклопедия о мире Токийского гуля: граница человека и бледно-серый город.</description>
+    <language>ru</language>
+    <item>
+      <title>О мире</title>
+      <link>https://ghoul.unqspace.tech/o-mire/</link>
+      <guid>https://ghoul.unqspace.tech/o-mire/</guid>
+    </item>
+    <item>
+      <title>Сет энциклопедий</title>
+      <link>https://ghoul.unqspace.tech/set/</link>
+      <guid>https://ghoul.unqspace.tech/set/</guid>
+    </item>
+  </channel>
+</rss>

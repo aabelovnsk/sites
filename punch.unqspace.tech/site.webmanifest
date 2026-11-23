@@ -1,0 +1,12 @@
+{
+  "name": "One Punch Man",
+  "short_name": "Удар",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#2a2a2c",
+  "theme_color": "#f0c400",
+  "lang": "ru",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}

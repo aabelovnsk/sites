@@ -1,0 +1,10 @@
+{
+  "name": "Семья шпиона",
+  "short_name": "Семья шпиона",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7eef2",
+  "theme_color": "#1e2a4a",
+  "lang": "ru",
+  "icons": [{"src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml"}]
+}

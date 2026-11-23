@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" preserveAspectRatio="xMidYMid slice" role="img">
+  <defs>
+    <linearGradient id="n" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#1a0a0c"/><stop offset="60%" stop-color="#2a1014"/><stop offset="100%" stop-color="#0c0608"/></linearGradient>
+    <linearGradient id="moon" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#f2d6c9"/><stop offset="100%" stop-color="#c41e3a" stop-opacity="0.2"/></linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#n)"/>
+  <circle cx="1180" cy="160" r="90" fill="url(#moon)" opacity="0.85"/>
+  <g fill="#0a0406"><path d="M0 620 L180 480 L320 600 L480 420 L640 580 L820 400 L1000 560 L1180 380 L1360 540 L1600 420 L1600 900 L0 900 Z"/></g>
+  <g stroke="#c41e3a" stroke-width="3" fill="none" opacity="0.7"><path d="M720 780 L780 220"/><path d="M760 260 L820 230 L780 220 L740 250 Z"/></g>
+  <g fill="#1c0c10" opacity="0.9"><ellipse cx="640" cy="640" rx="22" ry="26"/><rect x="622" y="662" width="40" height="90" rx="6"/><rect x="628" y="750" width="12" height="80"/><rect x="646" y="750" width="12" height="80"/></g>
+  <g fill="none" stroke="#8b1a2b" stroke-width="2" opacity="0.5"><path d="M200 200 C400 300, 500 100, 700 250"/><path d="M900 120 C1100 200, 1300 80, 1500 180"/></g>
+</svg>
