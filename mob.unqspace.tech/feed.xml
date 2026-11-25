@@ -3,27 +3,10 @@
   <channel>
     <title>Моб Психо 100 — фан-портал</title>
     <link>https://mob.unqspace.tech/</link>
-    <description>Фан-портал о Моб Психо 100</description>
+    <description>Фан-портал о Моб Психо 100. Трейлеры VK / Кинопоиск, постеры MAL.</description>
     <language>ru</language>
-    <item>
-      <title>О мире</title>
-      <link>https://mob.unqspace.tech/o-mire/</link>
-      <guid>https://mob.unqspace.tech/o-mire/</guid>
-    </item>
-    <item>
-      <title>Персонажи</title>
-      <link>https://mob.unqspace.tech/personazhi/</link>
-      <guid>https://mob.unqspace.tech/personazhi/</guid>
-    </item>
-    <item>
-      <title>Ресурсы</title>
-      <link>https://mob.unqspace.tech/resursy/</link>
-      <guid>https://mob.unqspace.tech/resursy/</guid>
-    </item>
-    <item>
-      <title>Сеть</title>
-      <link>https://mob.unqspace.tech/set/</link>
-      <guid>https://mob.unqspace.tech/set/</guid>
-    </item>
+    <item><title>О мире</title><link>https://mob.unqspace.tech/o-mire/</link><guid>https://mob.unqspace.tech/o-mire/</guid></item>
+    <item><title>Персонажи</title><link>https://mob.unqspace.tech/personazhi/</link><guid>https://mob.unqspace.tech/personazhi/</guid></item>
+    <item><title>Ресурсы</title><link>https://mob.unqspace.tech/resursy/</link><guid>https://mob.unqspace.tech/resursy/</guid></item>
   </channel>
 </rss>

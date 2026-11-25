@@ -3,17 +3,22 @@
   <channel>
     <title>Стальной алхимик — фан-портал</title>
     <link>https://alchemist.unqspace.tech/</link>
-    <description>Братья Элрик ищут философский камень после неудачной попытки воскресить мать. Brotherhood ближе к манге Хирому Аракавы; сериал 2003 года идёт по собственному сюжету.</description>
+    <description>Фан-портал о Стальной алхимик. Трейлеры VK / Кинопоиск, постеры MAL.</description>
     <language>ru</language>
     <item>
-      <title>О мире Стальной алхимик</title>
+      <title>О мире</title>
       <link>https://alchemist.unqspace.tech/o-mire/</link>
-      <description>Братья Элрик ищут философский камень после неудачной попытки воскресить мать. Brotherhood ближе к манге Хирому Аракавы; сериал 2003 года идёт по собственному сюжету.</description>
+      <guid>https://alchemist.unqspace.tech/o-mire/</guid>
     </item>
     <item>
-      <title>Ресурсы и трейлер</title>
+      <title>Персонажи</title>
+      <link>https://alchemist.unqspace.tech/personazhi/</link>
+      <guid>https://alchemist.unqspace.tech/personazhi/</guid>
+    </item>
+    <item>
+      <title>Ресурсы</title>
       <link>https://alchemist.unqspace.tech/resursy/</link>
-      <description>Официальные ссылки и трейлер на VK / Кинопоиск</description>
+      <guid>https://alchemist.unqspace.tech/resursy/</guid>
     </item>
   </channel>
 </rss>

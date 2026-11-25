@@ -1,21 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
-  <channel>
-    <title>One Piece — фан-портал</title>
-    <link>https://piece.unqspace.tech/</link>
-    <description>Эпическое путешествие Монки Д. Луффи и пиратов Соломенной шляпы за легендарным сокровищем One Piece.</description>
-    <language>ru</language>
-    <item>
-      <title>О тайтле: One Piece</title>
-      <link>https://piece.unqspace.tech/</link>
-      <description>Эпическое путешествие Монки Д. Луффи и пиратов Соломенной шляпы за легендарным сокровищем One Piece. Манга Эйитиро Оды — один из самых продаваемых комиксов в истории; аниме Toei идёт с 1999 года и насчитывает более тысячи серий.</description>
-      <guid>https://piece.unqspace.tech/#o-taitle</guid>
-    </item>
-    <item>
-      <title>Ресурсы и трейлеры</title>
-      <link>https://piece.unqspace.tech/resursy/</link>
-      <description>Официальные ссылки, манга, вики и трейлеры на VK Video / Кинопоиск.</description>
-      <guid>https://piece.unqspace.tech/resursy/</guid>
-    </item>
-  </channel>
-</rss>
+<rss version="2.0"><channel>
+<title>One Piece — фан-портал</title>
+<link>https://piece.unqspace.tech/</link>
+<description>Эпическое путешествие Монки Д. Луффи и пиратов Соломенной шляпы за легендарным сокровищем One Piece. Манга Эйитиро Оды — один из самых продаваемых комиксов в истории; аниме Toei идёт с 1999 года и насчитывает более тысячи серий.</description>
+<language>ru</language>
+<item><title>О тайтле</title><link>https://piece.unqspace.tech/</link><guid>https://piece.unqspace.tech/#o-taitle</guid></item>
+<item><title>Ресурсы и трейлеры</title><link>https://piece.unqspace.tech/resursy/</link><guid>https://piece.unqspace.tech/resursy/</guid></item>
+</channel></rss>

@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://spirited.unqspace.tech/
+Sitemap: https://spirited.unqspace.tech/feed.xml

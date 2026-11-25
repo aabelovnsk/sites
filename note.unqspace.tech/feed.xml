@@ -3,17 +3,22 @@
   <channel>
     <title>Тетрадь смерти — фан-портал</title>
     <link>https://note.unqspace.tech/</link>
-    <description>Лайт Ягами находит тетрадь синигами, способную убивать тех, чьё имя в ней записано. Интеллектуальная дуэль с детективом L делает сериал эталоном психологического триллера в аниме.</description>
+    <description>Фан-портал о Тетрадь смерти. Трейлеры VK / Кинопоиск, постеры MAL.</description>
     <language>ru</language>
     <item>
-      <title>О мире Тетрадь смерти</title>
+      <title>О мире</title>
       <link>https://note.unqspace.tech/o-mire/</link>
-      <description>Лайт Ягами находит тетрадь синигами, способную убивать тех, чьё имя в ней записано. Интеллектуальная дуэль с детективом L делает сериал эталоном психологического триллера в аниме.</description>
+      <guid>https://note.unqspace.tech/o-mire/</guid>
     </item>
     <item>
-      <title>Ресурсы и трейлер</title>
+      <title>Персонажи</title>
+      <link>https://note.unqspace.tech/personazhi/</link>
+      <guid>https://note.unqspace.tech/personazhi/</guid>
+    </item>
+    <item>
+      <title>Ресурсы</title>
       <link>https://note.unqspace.tech/resursy/</link>
-      <description>Официальные ссылки и трейлер на VK / Кинопоиск</description>
+      <guid>https://note.unqspace.tech/resursy/</guid>
     </item>
   </channel>
 </rss>

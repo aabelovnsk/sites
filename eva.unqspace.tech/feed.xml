@@ -3,17 +3,22 @@
   <channel>
     <title>Евангелион — фан-портал</title>
     <link>https://eva.unqspace.tech/</link>
-    <description>Подростки пилотируют гигантские Евы против Ангелов, но главный фронт — травма, контроль и идентичность. Работа Хидэаки Анно переопределила меха-жанр; тетралогия Rebuild пересобирает миф для нового поколения.</description>
+    <description>Фан-портал о Евангелион. Трейлеры VK / Кинопоиск, постеры MAL.</description>
     <language>ru</language>
     <item>
-      <title>О мире Евангелион</title>
+      <title>О мире</title>
       <link>https://eva.unqspace.tech/o-mire/</link>
-      <description>Подростки пилотируют гигантские Евы против Ангелов, но главный фронт — травма, контроль и идентичность. Работа Хидэаки Анно переопределила меха-жанр; тетралогия Rebuild пересобирает миф для нового поколения.</description>
+      <guid>https://eva.unqspace.tech/o-mire/</guid>
     </item>
     <item>
-      <title>Ресурсы и трейлер</title>
+      <title>Персонажи</title>
+      <link>https://eva.unqspace.tech/personazhi/</link>
+      <guid>https://eva.unqspace.tech/personazhi/</guid>
+    </item>
+    <item>
+      <title>Ресурсы</title>
       <link>https://eva.unqspace.tech/resursy/</link>
-      <description>Официальные ссылки и трейлер на VK / Кинопоиск</description>
+      <guid>https://eva.unqspace.tech/resursy/</guid>
     </item>
   </channel>
 </rss>

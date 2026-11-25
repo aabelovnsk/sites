@@ -1,21 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
-  <channel>
-    <title>Призрак в доспехах — фан-портал</title>
-    <link>https://ghost.unqspace.tech/</link>
-    <description>Культовая киберпанк-франшиза Масамунэ Сиро о майоре Мотоко Кусанаги и отделе общественной безопасности 9. Исследует границы личности, когда тело и сознание можно заменить технологией.</description>
-    <language>ru</language>
-    <item>
-      <title>О тайтле: Призрак в доспехах</title>
-      <link>https://ghost.unqspace.tech/</link>
-      <description>Культовая киберпанк-франшиза Масамунэ Сиро о майоре Мотоко Кусанаги и отделе общественной безопасности 9. Исследует границы личности, когда тело и сознание можно заменить технологией. Фильм 1995 года и сериал Stand Alone Complex определили визуальный язык цифрового будущего для всего мира аниме.</description>
-      <guid>https://ghost.unqspace.tech/#o-taitle</guid>
-    </item>
-    <item>
-      <title>Ресурсы и трейлеры</title>
-      <link>https://ghost.unqspace.tech/resursy/</link>
-      <description>Официальные ссылки, манга, вики и трейлеры на VK Video / Кинопоиск.</description>
-      <guid>https://ghost.unqspace.tech/resursy/</guid>
-    </item>
-  </channel>
-</rss>
+<rss version="2.0"><channel>
+<title>Призрак в доспехах — фан-портал</title>
+<link>https://ghost.unqspace.tech/</link>
+<description>Культовая киберпанк-франшиза Масамунэ Сиро о майоре Мотоко Кусанаги и отделе общественной безопасности 9. Исследует границы личности, когда тело и сознание можно заменить технологией. Фильм 1995 года и сериал Stand Alone Complex определили визуальный язык цифрового будущего для всего мира аниме.</description>
+<language>ru</language>
+<item><title>О тайтле</title><link>https://ghost.unqspace.tech/</link><guid>https://ghost.unqspace.tech/#o-taitle</guid></item>
+<item><title>Ресурсы и трейлеры</title><link>https://ghost.unqspace.tech/resursy/</link><guid>https://ghost.unqspace.tech/resursy/</guid></item>
+</channel></rss>

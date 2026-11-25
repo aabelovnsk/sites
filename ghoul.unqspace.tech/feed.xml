@@ -3,17 +3,22 @@
   <channel>
     <title>Токийский гуль — фан-портал</title>
     <link>https://ghoul.unqspace.tech/</link>
-    <description>Кэн Канэки после нападения гуля становится полугулем и пытается сохранить человечность. Манга Суи Исиды сочетает боди-хоррор и драму идентичности; аниме-адаптация известна атмосферой, хотя расходится с мангой во второй половине.</description>
+    <description>Фан-портал о Токийский гуль. Трейлеры VK / Кинопоиск, постеры MAL.</description>
     <language>ru</language>
     <item>
-      <title>О мире Токийский гуль</title>
+      <title>О мире</title>
       <link>https://ghoul.unqspace.tech/o-mire/</link>
-      <description>Кэн Канэки после нападения гуля становится полугулем и пытается сохранить человечность. Манга Суи Исиды сочетает боди-хоррор и драму идентичности; аниме-адаптация известна атмосферой, хотя расходится с мангой во второй половине.</description>
+      <guid>https://ghoul.unqspace.tech/o-mire/</guid>
     </item>
     <item>
-      <title>Ресурсы и трейлер</title>
+      <title>Персонажи</title>
+      <link>https://ghoul.unqspace.tech/personazhi/</link>
+      <guid>https://ghoul.unqspace.tech/personazhi/</guid>
+    </item>
+    <item>
+      <title>Ресурсы</title>
       <link>https://ghoul.unqspace.tech/resursy/</link>
-      <description>Официальные ссылки и трейлер на VK / Кинопоиск</description>
+      <guid>https://ghoul.unqspace.tech/resursy/</guid>
     </item>
   </channel>
 </rss>

@@ -3,27 +3,10 @@
   <channel>
     <title>Человек-бензопила — фан-портал</title>
     <link>https://chainsaw.unqspace.tech/</link>
-    <description>Фан-портал о Человек-бензопила</description>
+    <description>Фан-портал о Человек-бензопила. Трейлеры VK / Кинопоиск, постеры MAL.</description>
     <language>ru</language>
-    <item>
-      <title>О мире</title>
-      <link>https://chainsaw.unqspace.tech/o-mire/</link>
-      <guid>https://chainsaw.unqspace.tech/o-mire/</guid>
-    </item>
-    <item>
-      <title>Персонажи</title>
-      <link>https://chainsaw.unqspace.tech/personazhi/</link>
-      <guid>https://chainsaw.unqspace.tech/personazhi/</guid>
-    </item>
-    <item>
-      <title>Ресурсы</title>
-      <link>https://chainsaw.unqspace.tech/resursy/</link>
-      <guid>https://chainsaw.unqspace.tech/resursy/</guid>
-    </item>
-    <item>
-      <title>Сеть</title>
-      <link>https://chainsaw.unqspace.tech/set/</link>
-      <guid>https://chainsaw.unqspace.tech/set/</guid>
-    </item>
+    <item><title>О мире</title><link>https://chainsaw.unqspace.tech/o-mire/</link><guid>https://chainsaw.unqspace.tech/o-mire/</guid></item>
+    <item><title>Персонажи</title><link>https://chainsaw.unqspace.tech/personazhi/</link><guid>https://chainsaw.unqspace.tech/personazhi/</guid></item>
+    <item><title>Ресурсы</title><link>https://chainsaw.unqspace.tech/resursy/</link><guid>https://chainsaw.unqspace.tech/resursy/</guid></item>
   </channel>
 </rss>

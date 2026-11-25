@@ -3,27 +3,10 @@
   <channel>
     <title>Врата Штейна — фан-портал</title>
     <link>https://steins.unqspace.tech/</link>
-    <description>Фан-портал о Врата Штейна</description>
+    <description>Фан-портал о Врата Штейна. Трейлеры VK / Кинопоиск, постеры MAL.</description>
     <language>ru</language>
-    <item>
-      <title>О мире</title>
-      <link>https://steins.unqspace.tech/o-mire/</link>
-      <guid>https://steins.unqspace.tech/o-mire/</guid>
-    </item>
-    <item>
-      <title>Персонажи</title>
-      <link>https://steins.unqspace.tech/personazhi/</link>
-      <guid>https://steins.unqspace.tech/personazhi/</guid>
-    </item>
-    <item>
-      <title>Ресурсы</title>
-      <link>https://steins.unqspace.tech/resursy/</link>
-      <guid>https://steins.unqspace.tech/resursy/</guid>
-    </item>
-    <item>
-      <title>Сеть</title>
-      <link>https://steins.unqspace.tech/set/</link>
-      <guid>https://steins.unqspace.tech/set/</guid>
-    </item>
+    <item><title>О мире</title><link>https://steins.unqspace.tech/o-mire/</link><guid>https://steins.unqspace.tech/o-mire/</guid></item>
+    <item><title>Персонажи</title><link>https://steins.unqspace.tech/personazhi/</link><guid>https://steins.unqspace.tech/personazhi/</guid></item>
+    <item><title>Ресурсы</title><link>https://steins.unqspace.tech/resursy/</link><guid>https://steins.unqspace.tech/resursy/</guid></item>
   </channel>
 </rss>

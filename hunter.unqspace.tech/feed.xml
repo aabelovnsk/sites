@@ -3,27 +3,10 @@
   <channel>
     <title>Hunter × Hunter — фан-портал</title>
     <link>https://hunter.unqspace.tech/</link>
-    <description>Фан-портал о Hunter × Hunter</description>
+    <description>Фан-портал о Hunter × Hunter. Трейлеры VK / Кинопоиск, постеры MAL.</description>
     <language>ru</language>
-    <item>
-      <title>О мире</title>
-      <link>https://hunter.unqspace.tech/o-mire/</link>
-      <guid>https://hunter.unqspace.tech/o-mire/</guid>
-    </item>
-    <item>
-      <title>Персонажи</title>
-      <link>https://hunter.unqspace.tech/personazhi/</link>
-      <guid>https://hunter.unqspace.tech/personazhi/</guid>
-    </item>
-    <item>
-      <title>Ресурсы</title>
-      <link>https://hunter.unqspace.tech/resursy/</link>
-      <guid>https://hunter.unqspace.tech/resursy/</guid>
-    </item>
-    <item>
-      <title>Сеть</title>
-      <link>https://hunter.unqspace.tech/set/</link>
-      <guid>https://hunter.unqspace.tech/set/</guid>
-    </item>
+    <item><title>О мире</title><link>https://hunter.unqspace.tech/o-mire/</link><guid>https://hunter.unqspace.tech/o-mire/</guid></item>
+    <item><title>Персонажи</title><link>https://hunter.unqspace.tech/personazhi/</link><guid>https://hunter.unqspace.tech/personazhi/</guid></item>
+    <item><title>Ресурсы</title><link>https://hunter.unqspace.tech/resursy/</link><guid>https://hunter.unqspace.tech/resursy/</guid></item>
   </channel>
 </rss>

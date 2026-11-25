@@ -1,21 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
-  <channel>
-    <title>Истребитель демонов — фан-портал</title>
-    <link>https://demon.unqspace.tech/</link>
-    <description>История Танджиро Камадо, который после трагедии в семье становится охотником на демонов, чтобы спасти сестру Нэдзуко. Адаптация манги Коёхару Готогэ прославилась анимацией ufotable, особенно дуэльными сценами и «дыхательными» стилями боя.</description>
-    <language>ru</language>
-    <item>
-      <title>О тайтле: Истребитель демонов</title>
-      <link>https://demon.unqspace.tech/</link>
-      <description>История Танджиро Камадо, который после трагедии в семье становится охотником на демонов, чтобы спасти сестру Нэдзуко. Адаптация манги Коёхару Готогэ прославилась анимацией ufotable, особенно дуэльными сценами и «дыхательными» стилями боя.</description>
-      <guid>https://demon.unqspace.tech/#o-taitle</guid>
-    </item>
-    <item>
-      <title>Ресурсы и трейлеры</title>
-      <link>https://demon.unqspace.tech/resursy/</link>
-      <description>Официальные ссылки, манга, вики и трейлеры на VK Video / Кинопоиск.</description>
-      <guid>https://demon.unqspace.tech/resursy/</guid>
-    </item>
-  </channel>
-</rss>
+<rss version="2.0"><channel>
+<title>Истребитель демонов — фан-портал</title>
+<link>https://demon.unqspace.tech/</link>
+<description>История Танджиро Камадо, который после трагедии в семье становится охотником на демонов, чтобы спасти сестру Нэдзуко. Адаптация манги Коёхару Готогэ прославилась анимацией ufotable, особенно дуэльными сценами и «дыхательными» стилями боя.</description>
+<language>ru</language>
+<item><title>О тайтле</title><link>https://demon.unqspace.tech/</link><guid>https://demon.unqspace.tech/#o-taitle</guid></item>
+<item><title>Ресурсы и трейлеры</title><link>https://demon.unqspace.tech/resursy/</link><guid>https://demon.unqspace.tech/resursy/</guid></item>
+</channel></rss>

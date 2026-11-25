@@ -1,21 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
-  <channel>
-    <title>Наруто — фан-портал</title>
-    <link>https://naruto.unqspace.tech/</link>
-    <description>Наруто Узумаки мечтает стать Хокаге и добиться признания в деревне Скрытого Листа. Манга Масаси Кисимото и аниме Pierrot сформировали целое поколение зрителей; продолжение Boruto развивает мир следующего поколения.</description>
-    <language>ru</language>
-    <item>
-      <title>О тайтле: Наруто</title>
-      <link>https://naruto.unqspace.tech/</link>
-      <description>Наруто Узумаки мечтает стать Хокаге и добиться признания в деревне Скрытого Листа. Манга Масаси Кисимото и аниме Pierrot сформировали целое поколение зрителей; продолжение Boruto развивает мир следующего поколения.</description>
-      <guid>https://naruto.unqspace.tech/#o-taitle</guid>
-    </item>
-    <item>
-      <title>Ресурсы и трейлеры</title>
-      <link>https://naruto.unqspace.tech/resursy/</link>
-      <description>Официальные ссылки, манга, вики и трейлеры на VK Video / Кинопоиск.</description>
-      <guid>https://naruto.unqspace.tech/resursy/</guid>
-    </item>
-  </channel>
-</rss>
+<rss version="2.0"><channel>
+<title>Наруто — фан-портал</title>
+<link>https://naruto.unqspace.tech/</link>
+<description>Наруто Узумаки мечтает стать Хокаге и добиться признания в деревне Скрытого Листа. Манга Масаси Кисимото и аниме Pierrot сформировали целое поколение зрителей; продолжение Boruto развивает мир следующего поколения.</description>
+<language>ru</language>
+<item><title>О тайтле</title><link>https://naruto.unqspace.tech/</link><guid>https://naruto.unqspace.tech/#o-taitle</guid></item>
+<item><title>Ресурсы и трейлеры</title><link>https://naruto.unqspace.tech/resursy/</link><guid>https://naruto.unqspace.tech/resursy/</guid></item>
+</channel></rss>

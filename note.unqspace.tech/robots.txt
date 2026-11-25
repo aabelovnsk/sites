@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://note.unqspace.tech/
+Sitemap: https://note.unqspace.tech/feed.xml

@@ -3,17 +3,22 @@
   <channel>
     <title>Ковбой Бибоп — фан-портал</title>
     <link>https://bebop.unqspace.tech/</link>
-    <description>Охотники за головами на корабле Bebop скитаются по Солнечной системе под джазовый саундтрек The Seatbelts. Режиссура Синъитиро Ватанабэ смешала нуар, вестерн и эпизодические истории о прошлом экипажа.</description>
+    <description>Фан-портал о Ковбой Бибоп. Трейлеры VK / Кинопоиск, постеры MAL.</description>
     <language>ru</language>
     <item>
-      <title>О мире Ковбой Бибоп</title>
+      <title>О мире</title>
       <link>https://bebop.unqspace.tech/o-mire/</link>
-      <description>Охотники за головами на корабле Bebop скитаются по Солнечной системе под джазовый саундтрек The Seatbelts. Режиссура Синъитиро Ватанабэ смешала нуар, вестерн и эпизодические истории о прошлом экипажа.</description>
+      <guid>https://bebop.unqspace.tech/o-mire/</guid>
     </item>
     <item>
-      <title>Ресурсы и трейлер</title>
+      <title>Персонажи</title>
+      <link>https://bebop.unqspace.tech/personazhi/</link>
+      <guid>https://bebop.unqspace.tech/personazhi/</guid>
+    </item>
+    <item>
+      <title>Ресурсы</title>
       <link>https://bebop.unqspace.tech/resursy/</link>
-      <description>Официальные ссылки и трейлер на VK / Кинопоиск</description>
+      <guid>https://bebop.unqspace.tech/resursy/</guid>
     </item>
   </channel>
 </rss>

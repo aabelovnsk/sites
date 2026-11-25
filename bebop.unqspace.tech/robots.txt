@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://bebop.unqspace.tech/
+Sitemap: https://bebop.unqspace.tech/feed.xml

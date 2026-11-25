@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://hero.unqspace.tech/
+Sitemap: https://hero.unqspace.tech/feed.xml

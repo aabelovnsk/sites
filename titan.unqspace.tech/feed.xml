@@ -1,21 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
-  <channel>
-    <title>Атака титанов — фан-портал</title>
-    <link>https://titan.unqspace.tech/</link>
-    <description>Человечество живёт за стенами, скрываясь от титанов. История Эрена Йегера и Разведкорпуса переходит от ужаса осады к политическому триллеру о свободе, памяти и цене войны.</description>
-    <language>ru</language>
-    <item>
-      <title>О тайтле: Атака титанов</title>
-      <link>https://titan.unqspace.tech/</link>
-      <description>Человечество живёт за стенами, скрываясь от титанов. История Эрена Йегера и Разведкорпуса переходит от ужаса осады к политическому триллеру о свободе, памяти и цене войны. Манга Хадзимэ Исаямы завершена; аниме закрыло канон в 2023 году.</description>
-      <guid>https://titan.unqspace.tech/#o-taitle</guid>
-    </item>
-    <item>
-      <title>Ресурсы и трейлеры</title>
-      <link>https://titan.unqspace.tech/resursy/</link>
-      <description>Официальные ссылки, манга, вики и трейлеры на VK Video / Кинопоиск.</description>
-      <guid>https://titan.unqspace.tech/resursy/</guid>
-    </item>
-  </channel>
-</rss>
+<rss version="2.0"><channel>
+<title>Атака титанов — фан-портал</title>
+<link>https://titan.unqspace.tech/</link>
+<description>Человечество живёт за стенами, скрываясь от титанов. История Эрена Йегера и Разведкорпуса переходит от ужаса осады к политическому триллеру о свободе, памяти и цене войны. Манга Хадзимэ Исаямы завершена; аниме закрыло канон в 2023 году.</description>
+<language>ru</language>
+<item><title>О тайтле</title><link>https://titan.unqspace.tech/</link><guid>https://titan.unqspace.tech/#o-taitle</guid></item>
+<item><title>Ресурсы и трейлеры</title><link>https://titan.unqspace.tech/resursy/</link><guid>https://titan.unqspace.tech/resursy/</guid></item>
+</channel></rss>

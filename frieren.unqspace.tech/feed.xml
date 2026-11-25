@@ -3,27 +3,10 @@
   <channel>
     <title>Фрирен — фан-портал</title>
     <link>https://frieren.unqspace.tech/</link>
-    <description>Фан-портал о Фрирен</description>
+    <description>Фан-портал о Фрирен. Трейлеры VK / Кинопоиск, постеры MAL.</description>
     <language>ru</language>
-    <item>
-      <title>О мире</title>
-      <link>https://frieren.unqspace.tech/o-mire/</link>
-      <guid>https://frieren.unqspace.tech/o-mire/</guid>
-    </item>
-    <item>
-      <title>Персонажи</title>
-      <link>https://frieren.unqspace.tech/personazhi/</link>
-      <guid>https://frieren.unqspace.tech/personazhi/</guid>
-    </item>
-    <item>
-      <title>Ресурсы</title>
-      <link>https://frieren.unqspace.tech/resursy/</link>
-      <guid>https://frieren.unqspace.tech/resursy/</guid>
-    </item>
-    <item>
-      <title>Сеть</title>
-      <link>https://frieren.unqspace.tech/set/</link>
-      <guid>https://frieren.unqspace.tech/set/</guid>
-    </item>
+    <item><title>О мире</title><link>https://frieren.unqspace.tech/o-mire/</link><guid>https://frieren.unqspace.tech/o-mire/</guid></item>
+    <item><title>Персонажи</title><link>https://frieren.unqspace.tech/personazhi/</link><guid>https://frieren.unqspace.tech/personazhi/</guid></item>
+    <item><title>Ресурсы</title><link>https://frieren.unqspace.tech/resursy/</link><guid>https://frieren.unqspace.tech/resursy/</guid></item>
   </channel>
 </rss>

@@ -3,17 +3,22 @@
   <channel>
     <title>Магическая битва — фан-портал</title>
     <link>https://jujutsu.unqspace.tech/</link>
-    <description>Юдзи Итадори становится сосудом Сукуны — короля проклятий — и вступает в мир магов Дзюдзюцу. Манга Гэге Акутамы и анимация MAPPA сделали франшизу одним из главных сёнэнов 2020-х.</description>
+    <description>Фан-портал о Магическая битва. Трейлеры VK / Кинопоиск, постеры MAL.</description>
     <language>ru</language>
     <item>
-      <title>О мире Магическая битва</title>
+      <title>О мире</title>
       <link>https://jujutsu.unqspace.tech/o-mire/</link>
-      <description>Юдзи Итадори становится сосудом Сукуны — короля проклятий — и вступает в мир магов Дзюдзюцу. Манга Гэге Акутамы и анимация MAPPA сделали франшизу одним из главных сёнэнов 2020-х.</description>
+      <guid>https://jujutsu.unqspace.tech/o-mire/</guid>
     </item>
     <item>
-      <title>Ресурсы и трейлер</title>
+      <title>Персонажи</title>
+      <link>https://jujutsu.unqspace.tech/personazhi/</link>
+      <guid>https://jujutsu.unqspace.tech/personazhi/</guid>
+    </item>
+    <item>
+      <title>Ресурсы</title>
       <link>https://jujutsu.unqspace.tech/resursy/</link>
-      <description>Официальные ссылки и трейлер на VK / Кинопоиск</description>
+      <guid>https://jujutsu.unqspace.tech/resursy/</guid>
     </item>
   </channel>
 </rss>

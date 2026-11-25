@@ -3,17 +3,22 @@
   <channel>
     <title>Моя геройская академия — фан-портал</title>
     <link>https://hero.unqspace.tech/</link>
-    <description>В мире, где почти у всех есть «причуда», Изuku Мидория рождается без силы, но получает One For All от Всемогущего. Академия Юэй готовит профессиональных героев; манга Кохэя Хорикоси завершает большую арку противостояния с Альянсом злодеев.</description>
+    <description>Фан-портал о Моя геройская академия. Трейлеры VK / Кинопоиск, постеры MAL.</description>
     <language>ru</language>
     <item>
-      <title>О мире Моя геройская академия</title>
+      <title>О мире</title>
       <link>https://hero.unqspace.tech/o-mire/</link>
-      <description>В мире, где почти у всех есть «причуда», Изuku Мидория рождается без силы, но получает One For All от Всемогущего. Академия Юэй готовит профессиональных героев; манга Кохэя Хорикоси завершает большую арку противостояния с Альянсом злодеев.</description>
+      <guid>https://hero.unqspace.tech/o-mire/</guid>
     </item>
     <item>
-      <title>Ресурсы и трейлер</title>
+      <title>Персонажи</title>
+      <link>https://hero.unqspace.tech/personazhi/</link>
+      <guid>https://hero.unqspace.tech/personazhi/</guid>
+    </item>
+    <item>
+      <title>Ресурсы</title>
       <link>https://hero.unqspace.tech/resursy/</link>
-      <description>Официальные ссылки и трейлер на VK / Кинопоиск</description>
+      <guid>https://hero.unqspace.tech/resursy/</guid>
     </item>
   </channel>
 </rss>

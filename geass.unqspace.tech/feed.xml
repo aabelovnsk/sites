@@ -3,27 +3,10 @@
   <channel>
     <title>Код Гиас — фан-портал</title>
     <link>https://geass.unqspace.tech/</link>
-    <description>Фан-портал о Код Гиас</description>
+    <description>Фан-портал о Код Гиас. Трейлеры VK / Кинопоиск, постеры MAL.</description>
     <language>ru</language>
-    <item>
-      <title>О мире</title>
-      <link>https://geass.unqspace.tech/o-mire/</link>
-      <guid>https://geass.unqspace.tech/o-mire/</guid>
-    </item>
-    <item>
-      <title>Персонажи</title>
-      <link>https://geass.unqspace.tech/personazhi/</link>
-      <guid>https://geass.unqspace.tech/personazhi/</guid>
-    </item>
-    <item>
-      <title>Ресурсы</title>
-      <link>https://geass.unqspace.tech/resursy/</link>
-      <guid>https://geass.unqspace.tech/resursy/</guid>
-    </item>
-    <item>
-      <title>Сеть</title>
-      <link>https://geass.unqspace.tech/set/</link>
-      <guid>https://geass.unqspace.tech/set/</guid>
-    </item>
+    <item><title>О мире</title><link>https://geass.unqspace.tech/o-mire/</link><guid>https://geass.unqspace.tech/o-mire/</guid></item>
+    <item><title>Персонажи</title><link>https://geass.unqspace.tech/personazhi/</link><guid>https://geass.unqspace.tech/personazhi/</guid></item>
+    <item><title>Ресурсы</title><link>https://geass.unqspace.tech/resursy/</link><guid>https://geass.unqspace.tech/resursy/</guid></item>
   </channel>
 </rss>

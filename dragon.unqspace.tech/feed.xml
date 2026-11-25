@@ -3,27 +3,10 @@
   <channel>
     <title>Драконий жемчуг — фан-портал</title>
     <link>https://dragon.unqspace.tech/</link>
-    <description>Фан-портал о Драконий жемчуг</description>
+    <description>Фан-портал о Драконий жемчуг. Трейлеры VK / Кинопоиск, постеры MAL.</description>
     <language>ru</language>
-    <item>
-      <title>О мире</title>
-      <link>https://dragon.unqspace.tech/o-mire/</link>
-      <guid>https://dragon.unqspace.tech/o-mire/</guid>
-    </item>
-    <item>
-      <title>Персонажи</title>
-      <link>https://dragon.unqspace.tech/personazhi/</link>
-      <guid>https://dragon.unqspace.tech/personazhi/</guid>
-    </item>
-    <item>
-      <title>Ресурсы</title>
-      <link>https://dragon.unqspace.tech/resursy/</link>
-      <guid>https://dragon.unqspace.tech/resursy/</guid>
-    </item>
-    <item>
-      <title>Сеть</title>
-      <link>https://dragon.unqspace.tech/set/</link>
-      <guid>https://dragon.unqspace.tech/set/</guid>
-    </item>
+    <item><title>О мире</title><link>https://dragon.unqspace.tech/o-mire/</link><guid>https://dragon.unqspace.tech/o-mire/</guid></item>
+    <item><title>Персонажи</title><link>https://dragon.unqspace.tech/personazhi/</link><guid>https://dragon.unqspace.tech/personazhi/</guid></item>
+    <item><title>Ресурсы</title><link>https://dragon.unqspace.tech/resursy/</link><guid>https://dragon.unqspace.tech/resursy/</guid></item>
   </channel>
 </rss>

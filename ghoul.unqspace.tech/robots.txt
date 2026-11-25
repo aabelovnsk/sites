@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://ghoul.unqspace.tech/
+Sitemap: https://ghoul.unqspace.tech/feed.xml

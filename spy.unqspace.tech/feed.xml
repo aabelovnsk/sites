@@ -3,27 +3,10 @@
   <channel>
     <title>Семья шпиона — фан-портал</title>
     <link>https://spy.unqspace.tech/</link>
-    <description>Фан-портал о Семья шпиона</description>
+    <description>Фан-портал о Семья шпиона. Трейлеры VK / Кинопоиск, постеры MAL.</description>
     <language>ru</language>
-    <item>
-      <title>О мире</title>
-      <link>https://spy.unqspace.tech/o-mire/</link>
-      <guid>https://spy.unqspace.tech/o-mire/</guid>
-    </item>
-    <item>
-      <title>Персонажи</title>
-      <link>https://spy.unqspace.tech/personazhi/</link>
-      <guid>https://spy.unqspace.tech/personazhi/</guid>
-    </item>
-    <item>
-      <title>Ресурсы</title>
-      <link>https://spy.unqspace.tech/resursy/</link>
-      <guid>https://spy.unqspace.tech/resursy/</guid>
-    </item>
-    <item>
-      <title>Сеть</title>
-      <link>https://spy.unqspace.tech/set/</link>
-      <guid>https://spy.unqspace.tech/set/</guid>
-    </item>
+    <item><title>О мире</title><link>https://spy.unqspace.tech/o-mire/</link><guid>https://spy.unqspace.tech/o-mire/</guid></item>
+    <item><title>Персонажи</title><link>https://spy.unqspace.tech/personazhi/</link><guid>https://spy.unqspace.tech/personazhi/</guid></item>
+    <item><title>Ресурсы</title><link>https://spy.unqspace.tech/resursy/</link><guid>https://spy.unqspace.tech/resursy/</guid></item>
   </channel>
 </rss>

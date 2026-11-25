@@ -3,17 +3,22 @@
   <channel>
     <title>Унесённые призраками — фан-портал</title>
     <link>https://spirited.unqspace.tech/</link>
-    <description>Тихиро попадает в мир духов и работает в бане ведьмы Юбабы, чтобы спасти родителей. Фильм Хаяо Миядзаки получил «Оскар» и стал визитной карточкой Studio Ghibli — о взрослении, имени и жадности.</description>
+    <description>Фан-портал о Унесённые призраками. Трейлеры VK / Кинопоиск, постеры MAL.</description>
     <language>ru</language>
     <item>
-      <title>О мире Унесённые призраками</title>
+      <title>О мире</title>
       <link>https://spirited.unqspace.tech/o-mire/</link>
-      <description>Тихиро попадает в мир духов и работает в бане ведьмы Юбабы, чтобы спасти родителей. Фильм Хаяо Миядзаки получил «Оскар» и стал визитной карточкой Studio Ghibli — о взрослении, имени и жадности.</description>
+      <guid>https://spirited.unqspace.tech/o-mire/</guid>
     </item>
     <item>
-      <title>Ресурсы и трейлер</title>
+      <title>Персонажи</title>
+      <link>https://spirited.unqspace.tech/personazhi/</link>
+      <guid>https://spirited.unqspace.tech/personazhi/</guid>
+    </item>
+    <item>
+      <title>Ресурсы</title>
       <link>https://spirited.unqspace.tech/resursy/</link>
-      <description>Официальные ссылки и трейлер на VK / Кинопоиск</description>
+      <guid>https://spirited.unqspace.tech/resursy/</guid>
     </item>
   </channel>
 </rss>

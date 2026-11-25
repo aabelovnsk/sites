@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://alchemist.unqspace.tech/
+Sitemap: https://alchemist.unqspace.tech/feed.xml
