@@ -1,18 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-label="Туманный горизонт и серебряный посох">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="Decorative overlay">
   <defs>
-    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#d9e6f2"/>
-      <stop offset="50%" stop-color="#c5d5e4"/>
-      <stop offset="100%" stop-color="#aebfcf"/>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#7eb6d9" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#eef3f7" stop-opacity="0.1"/>
     </linearGradient>
   </defs>
-  <rect width="1600" height="900" fill="url(#sky)"/>
-  <ellipse cx="800" cy="620" rx="700" ry="90" fill="#f5f8fb" opacity="0.55"/>
-  <ellipse cx="600" cy="660" rx="520" ry="70" fill="#eef3f8" opacity="0.7"/>
-  <path d="M0 700 Q400 640 800 690 T1600 670 L1600 900 L0 900 Z" fill="#9eafc0" opacity="0.55"/>
-  <path d="M780 720 L800 280 L820 720 Z" fill="#dfe7ef" stroke="#7a8ea3" stroke-width="3"/>
-  <circle cx="800" cy="250" r="36" fill="none" stroke="#c5d0dc" stroke-width="6"/>
-  <circle cx="800" cy="250" r="10" fill="#9eb0c2"/>
-  <path d="M200 520 Q320 460 420 520" fill="none" stroke="#dfe7ef" stroke-width="10" opacity="0.8"/>
-  <path d="M1100 500 Q1220 440 1360 510" fill="none" stroke="#dfe7ef" stroke-width="10" opacity="0.8"/>
+  <rect width="1200" height="800" fill="#eef3f7"/>
+  <circle cx="980" cy="160" r="220" fill="url(#g)"/>
+  <circle cx="180" cy="640" r="260" fill="#7eb6d9" opacity="0.08"/>
+  <path d="M0 520 C300 460 500 620 1200 480" fill="none" stroke="#d0dbe6" stroke-width="2" opacity="0.7"/>
+  <path d="M0 560 C340 500 560 660 1200 520" fill="none" stroke="#7eb6d9" stroke-width="1.5" opacity="0.45"/>
 </svg>

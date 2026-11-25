@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Евангелион — фан-энциклопедия</title>
+    <title>Евангелион — фан-портал</title>
     <link>https://eva.unqspace.tech/</link>
-    <description>Фан-энциклопедия о мире Евангелиона: ночь, предупреждение и хрупкий экипаж.</description>
+    <description>Подростки пилотируют гигантские Евы против Ангелов, но главный фронт — травма, контроль и идентичность. Работа Хидэаки Анно переопределила меха-жанр; тетралогия Rebuild пересобирает миф для нового поколения.</description>
     <language>ru</language>
     <item>
-      <title>О мире</title>
+      <title>О мире Евангелион</title>
       <link>https://eva.unqspace.tech/o-mire/</link>
-      <guid>https://eva.unqspace.tech/o-mire/</guid>
+      <description>Подростки пилотируют гигантские Евы против Ангелов, но главный фронт — травма, контроль и идентичность. Работа Хидэаки Анно переопределила меха-жанр; тетралогия Rebuild пересобирает миф для нового поколения.</description>
     </item>
     <item>
-      <title>Сет энциклопедий</title>
-      <link>https://eva.unqspace.tech/set/</link>
-      <guid>https://eva.unqspace.tech/set/</guid>
+      <title>Ресурсы и трейлер</title>
+      <link>https://eva.unqspace.tech/resursy/</link>
+      <description>Официальные ссылки и трейлер на YouTube</description>
     </item>
   </channel>
 </rss>

@@ -1,34 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-label="A8E>-0C@K 8 <O3:89 3>@>4A:>9 3>@87>=B">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="Decorative overlay">
   <defs>
-    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#f7e4ee"/>
-      <stop offset="55%" stop-color="#e8e0e8"/>
-      <stop offset="100%" stop-color="#d5cfd8"/>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f7a8b8" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#f4f1ef" stop-opacity="0.1"/>
     </linearGradient>
-    <radialGradient id="aura1" cx="35%" cy="42%" r="28%">
-      <stop offset="0%" stop-color="#f2b7cb" stop-opacity="0.85"/>
-      <stop offset="70%" stop-color="#d48aa8" stop-opacity="0.25"/>
-      <stop offset="100%" stop-color="#d48aa8" stop-opacity="0"/>
-    </radialGradient>
-    <radialGradient id="aura2" cx="62%" cy="38%" r="22%">
-      <stop offset="0%" stop-color="#cfc8d4" stop-opacity="0.7"/>
-      <stop offset="100%" stop-color="#cfc8d4" stop-opacity="0"/>
-    </radialGradient>
   </defs>
-  <rect width="1600" height="900" fill="url(#sky)"/>
-  <circle cx="560" cy="380" r="220" fill="url(#aura1)"/>
-  <circle cx="980" cy="340" r="180" fill="url(#aura2)"/>
-  <g fill="#9a8f9c" opacity="0.35">
-    <rect x="80" y="520" width="90" height="260"/>
-    <rect x="190" y="470" width="70" height="310"/>
-    <rect x="280" y="540" width="110" height="240"/>
-    <rect x="420" y="500" width="80" height="280"/>
-    <rect x="1180" y="510" width="100" height="270"/>
-    <rect x="1300" y="460" width="75" height="320"/>
-    <rect x="1400" y="530" width="120" height="250"/>
-  </g>
-  <path d="M640 620 Q720 480 800 620 Q880 760 960 620" fill="none" stroke="#d48aa8" stroke-width="6" opacity="0.55"/>
-  <circle cx="800" cy="560" r="28" fill="#faf7f9" stroke="#9a6b82" stroke-width="3"/>
-  <circle cx="800" cy="560" r="8" fill="#9a6b82"/>
-  <path d="M0 780 Q400 720 800 760 T1600 740 L1600 900 L0 900 Z" fill="#e7e0e6"/>
+  <rect width="1200" height="800" fill="#f4f1ef"/>
+  <circle cx="980" cy="160" r="220" fill="url(#g)"/>
+  <circle cx="180" cy="640" r="260" fill="#f7a8b8" opacity="0.08"/>
+  <path d="M0 520 C300 460 500 620 1200 480" fill="none" stroke="#e0d6d8" stroke-width="2" opacity="0.7"/>
+  <path d="M0 560 C340 500 560 660 1200 520" fill="none" stroke="#f7a8b8" stroke-width="1.5" opacity="0.45"/>
 </svg>

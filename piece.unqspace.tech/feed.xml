@@ -1,19 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>One Piece</title>
+    <title>One Piece — фан-портал</title>
     <link>https://piece.unqspace.tech/</link>
-    <description>Фан-энциклопедия «One Piece»</description>
+    <description>Эпическое путешествие Монки Д. Луффи и пиратов Соломенной шляпы за легендарным сокровищем One Piece.</description>
     <language>ru</language>
     <item>
-      <title>О мире</title>
-      <link>https://piece.unqspace.tech/o-mire/</link>
-      <description>Атмосфера и символы</description>
+      <title>О тайтле: One Piece</title>
+      <link>https://piece.unqspace.tech/</link>
+      <description>Эпическое путешествие Монки Д. Луффи и пиратов Соломенной шляпы за легендарным сокровищем One Piece. Манга Эйитиро Оды — один из самых продаваемых комиксов в истории; аниме Toei идёт с 1999 года и насчитывает более тысячи серий.</description>
+      <guid>https://piece.unqspace.tech/#o-taitle</guid>
     </item>
     <item>
-      <title>Сеть энциклопедий</title>
-      <link>https://piece.unqspace.tech/set/</link>
-      <description>Каталог всех сайтов проекта</description>
+      <title>Ресурсы и трейлеры</title>
+      <link>https://piece.unqspace.tech/resursy/</link>
+      <description>Официальные ссылки, манга, вики и YouTube-трейлер.</description>
+      <guid>https://piece.unqspace.tech/resursy/</guid>
     </item>
   </channel>
 </rss>

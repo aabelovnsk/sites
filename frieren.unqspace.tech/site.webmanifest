@@ -3,8 +3,14 @@
   "short_name": "Фрирен",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#e7eef5",
-  "theme_color": "#7a8ea3",
+  "background_color": "#eef3f7",
+  "theme_color": "#7eb6d9",
   "lang": "ru",
-  "icons": [{"src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml"}]
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
 }

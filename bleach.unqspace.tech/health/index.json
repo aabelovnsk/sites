@@ -1,1 +1,5 @@
-{"status":"ok"}
+{
+  "ok": true,
+  "host": "bleach.unqspace.tech",
+  "service": "fan-portal"
+}

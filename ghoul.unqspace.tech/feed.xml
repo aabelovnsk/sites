@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Токийский гуль — фан-энциклопедия</title>
+    <title>Токийский гуль — фан-портал</title>
     <link>https://ghoul.unqspace.tech/</link>
-    <description>Фан-энциклопедия о мире Токийского гуля: граница человека и бледно-серый город.</description>
+    <description>Кэн Канэки после нападения гуля становится полугулем и пытается сохранить человечность. Манга Суи Исиды сочетает боди-хоррор и драму идентичности; аниме-адаптация известна атмосферой, хотя расходится с мангой во второй половине.</description>
     <language>ru</language>
     <item>
-      <title>О мире</title>
+      <title>О мире Токийский гуль</title>
       <link>https://ghoul.unqspace.tech/o-mire/</link>
-      <guid>https://ghoul.unqspace.tech/o-mire/</guid>
+      <description>Кэн Канэки после нападения гуля становится полугулем и пытается сохранить человечность. Манга Суи Исиды сочетает боди-хоррор и драму идентичности; аниме-адаптация известна атмосферой, хотя расходится с мангой во второй половине.</description>
     </item>
     <item>
-      <title>Сет энциклопедий</title>
-      <link>https://ghoul.unqspace.tech/set/</link>
-      <guid>https://ghoul.unqspace.tech/set/</guid>
+      <title>Ресурсы и трейлер</title>
+      <link>https://ghoul.unqspace.tech/resursy/</link>
+      <description>Официальные ссылки и трейлер на YouTube</description>
     </item>
   </channel>
 </rss>

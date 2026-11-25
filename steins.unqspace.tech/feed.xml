@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Врата Штейна — фан-энциклопедия</title>
+    <title>Врата Штейна — фан-портал</title>
     <link>https://steins.unqspace.tech/</link>
-    <description>Справочник по миру Врата Штейна</description>
+    <description>Фан-портал о Врата Штейна</description>
     <language>ru</language>
     <item>
       <title>О мире</title>
@@ -16,7 +16,12 @@
       <guid>https://steins.unqspace.tech/personazhi/</guid>
     </item>
     <item>
-      <title>Сет энциклопедии</title>
+      <title>Ресурсы</title>
+      <link>https://steins.unqspace.tech/resursy/</link>
+      <guid>https://steins.unqspace.tech/resursy/</guid>
+    </item>
+    <item>
+      <title>Сеть</title>
       <link>https://steins.unqspace.tech/set/</link>
       <guid>https://steins.unqspace.tech/set/</guid>
     </item>

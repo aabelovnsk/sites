@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Унесённые призраками — фан-энциклопедия</title>
+    <title>Унесённые призраками — фан-портал</title>
     <link>https://spirited.unqspace.tech/</link>
-    <description>Фан-энциклопедия о мире Унесённых призраками: купальни, духи и тёплая красная ночь.</description>
+    <description>Тихиро попадает в мир духов и работает в бане ведьмы Юбабы, чтобы спасти родителей. Фильм Хаяо Миядзаки получил «Оскар» и стал визитной карточкой Studio Ghibli — о взрослении, имени и жадности.</description>
     <language>ru</language>
     <item>
-      <title>О мире</title>
+      <title>О мире Унесённые призраками</title>
       <link>https://spirited.unqspace.tech/o-mire/</link>
-      <guid>https://spirited.unqspace.tech/o-mire/</guid>
+      <description>Тихиро попадает в мир духов и работает в бане ведьмы Юбабы, чтобы спасти родителей. Фильм Хаяо Миядзаки получил «Оскар» и стал визитной карточкой Studio Ghibli — о взрослении, имени и жадности.</description>
     </item>
     <item>
-      <title>Сет энциклопедий</title>
-      <link>https://spirited.unqspace.tech/set/</link>
-      <guid>https://spirited.unqspace.tech/set/</guid>
+      <title>Ресурсы и трейлер</title>
+      <link>https://spirited.unqspace.tech/resursy/</link>
+      <description>Официальные ссылки и трейлер на YouTube</description>
     </item>
   </channel>
 </rss>

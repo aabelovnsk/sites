@@ -1,1 +1,5 @@
-{"status":"ok"}
+{
+  "ok": true,
+  "host": "punch.unqspace.tech",
+  "service": "fan-portal"
+}

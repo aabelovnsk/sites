@@ -1,1 +1,6 @@
-{"status":"ok"}
+{
+  "status": "up",
+  "host": "naruto.unqspace.tech",
+  "brand": "Наруто",
+  "version": "2.0.0"
+}

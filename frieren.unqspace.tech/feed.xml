@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Фрирен — фан-энциклопедия</title>
+    <title>Фрирен — фан-портал</title>
     <link>https://frieren.unqspace.tech/</link>
-    <description>Справочник по миру Фрирен</description>
+    <description>Фан-портал о Фрирен</description>
     <language>ru</language>
     <item>
       <title>О мире</title>
@@ -16,7 +16,12 @@
       <guid>https://frieren.unqspace.tech/personazhi/</guid>
     </item>
     <item>
-      <title>Сет энциклопедии</title>
+      <title>Ресурсы</title>
+      <link>https://frieren.unqspace.tech/resursy/</link>
+      <guid>https://frieren.unqspace.tech/resursy/</guid>
+    </item>
+    <item>
+      <title>Сеть</title>
       <link>https://frieren.unqspace.tech/set/</link>
       <guid>https://frieren.unqspace.tech/set/</guid>
     </item>

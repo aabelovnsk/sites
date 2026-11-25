@@ -1,19 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Истребитель демонов</title>
+    <title>Истребитель демонов — фан-портал</title>
     <link>https://demon.unqspace.tech/</link>
-    <description>Фан-энциклопедия «Истребитель демонов»</description>
+    <description>История Танджиро Камадо, который после трагедии в семье становится охотником на демонов, чтобы спасти сестру Нэдзуко. Адаптация манги Коёхару Готогэ прославилась анимацией ufotable, особенно дуэльными сценами и «дыхательными» стилями боя.</description>
     <language>ru</language>
     <item>
-      <title>О мире</title>
-      <link>https://demon.unqspace.tech/o-mire/</link>
-      <description>Атмосфера и символы</description>
+      <title>О тайтле: Истребитель демонов</title>
+      <link>https://demon.unqspace.tech/</link>
+      <description>История Танджиро Камадо, который после трагедии в семье становится охотником на демонов, чтобы спасти сестру Нэдзуко. Адаптация манги Коёхару Готогэ прославилась анимацией ufotable, особенно дуэльными сценами и «дыхательными» стилями боя.</description>
+      <guid>https://demon.unqspace.tech/#o-taitle</guid>
     </item>
     <item>
-      <title>Сеть энциклопедий</title>
-      <link>https://demon.unqspace.tech/set/</link>
-      <description>Каталог всех сайтов проекта</description>
+      <title>Ресурсы и трейлеры</title>
+      <link>https://demon.unqspace.tech/resursy/</link>
+      <description>Официальные ссылки, манга, вики и YouTube-трейлер.</description>
+      <guid>https://demon.unqspace.tech/resursy/</guid>
     </item>
   </channel>
 </rss>

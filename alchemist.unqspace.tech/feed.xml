@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Стальной алхимик — фан-энциклопедия</title>
+    <title>Стальной алхимик — фан-портал</title>
     <link>https://alchemist.unqspace.tech/</link>
-    <description>Фан-энциклопедия о мире Стального алхимика: эквивалентный обмен и пути братьев.</description>
+    <description>Братья Элрик ищут философский камень после неудачной попытки воскресить мать. Brotherhood ближе к манге Хирому Аракавы; сериал 2003 года идёт по собственному сюжету.</description>
     <language>ru</language>
     <item>
-      <title>О мире</title>
+      <title>О мире Стальной алхимик</title>
       <link>https://alchemist.unqspace.tech/o-mire/</link>
-      <guid>https://alchemist.unqspace.tech/o-mire/</guid>
+      <description>Братья Элрик ищут философский камень после неудачной попытки воскресить мать. Brotherhood ближе к манге Хирому Аракавы; сериал 2003 года идёт по собственному сюжету.</description>
     </item>
     <item>
-      <title>Сет энциклопедий</title>
-      <link>https://alchemist.unqspace.tech/set/</link>
-      <guid>https://alchemist.unqspace.tech/set/</guid>
+      <title>Ресурсы и трейлер</title>
+      <link>https://alchemist.unqspace.tech/resursy/</link>
+      <description>Официальные ссылки и трейлер на YouTube</description>
     </item>
   </channel>
 </rss>

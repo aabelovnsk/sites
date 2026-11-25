@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Моя геройская академия — фан-энциклопедия</title>
+    <title>Моя геройская академия — фан-портал</title>
     <link>https://hero.unqspace.tech/</link>
-    <description>Фан-энциклопедия о мире Моей геройской академии: школа, причуды и яркий бирюзовый день.</description>
+    <description>В мире, где почти у всех есть «причуда», Изuku Мидория рождается без силы, но получает One For All от Всемогущего. Академия Юэй готовит профессиональных героев; манга Кохэя Хорикоси завершает большую арку противостояния с Альянсом злодеев.</description>
     <language>ru</language>
     <item>
-      <title>О мире</title>
+      <title>О мире Моя геройская академия</title>
       <link>https://hero.unqspace.tech/o-mire/</link>
-      <guid>https://hero.unqspace.tech/o-mire/</guid>
+      <description>В мире, где почти у всех есть «причуда», Изuku Мидория рождается без силы, но получает One For All от Всемогущего. Академия Юэй готовит профессиональных героев; манга Кохэя Хорикоси завершает большую арку противостояния с Альянсом злодеев.</description>
     </item>
     <item>
-      <title>Сет энциклопедий</title>
-      <link>https://hero.unqspace.tech/set/</link>
-      <guid>https://hero.unqspace.tech/set/</guid>
+      <title>Ресурсы и трейлер</title>
+      <link>https://hero.unqspace.tech/resursy/</link>
+      <description>Официальные ссылки и трейлер на YouTube</description>
     </item>
   </channel>
 </rss>

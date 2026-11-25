@@ -1,16 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-label="Имперская тьма и фиолетовый знак">
-  <rect width="1600" height="900" fill="#121018"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="Decorative overlay">
   <defs>
-    <radialGradient id="g" cx="50%" cy="40%" r="40%">
-      <stop offset="0%" stop-color="#7a5a9a" stop-opacity="0.55"/>
-      <stop offset="100%" stop-color="#7a5a9a" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#7c3aed" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#0c0a12" stop-opacity="0.1"/>
+    </linearGradient>
   </defs>
-  <rect width="1600" height="900" fill="url(#g)"/>
-  <path d="M0 650 L200 520 L360 600 L520 480 L700 580 L880 450 L1080 560 L1280 470 L1600 560 L1600 900 L0 900 Z" fill="#1c1824"/>
-  <circle cx="800" cy="360" r="110" fill="none" stroke="#7a5a9a" stroke-width="8"/>
-  <circle cx="800" cy="360" r="48" fill="#5a3f78"/>
-  <path d="M800 300 L830 360 L800 420 L770 360 Z" fill="#cbb6e0"/>
-  <rect x="120" y="120" width="8" height="160" fill="#7a5a9a" opacity="0.5"/>
-  <rect x="1470" y="120" width="8" height="160" fill="#7a5a9a" opacity="0.5"/>
+  <rect width="1200" height="800" fill="#0c0a12"/>
+  <circle cx="980" cy="160" r="220" fill="url(#g)"/>
+  <circle cx="180" cy="640" r="260" fill="#7c3aed" opacity="0.08"/>
+  <path d="M0 520 C300 460 500 620 1200 480" fill="none" stroke="#2a2438" stroke-width="2" opacity="0.7"/>
+  <path d="M0 560 C340 500 560 660 1200 520" fill="none" stroke="#7c3aed" stroke-width="1.5" opacity="0.45"/>
 </svg>

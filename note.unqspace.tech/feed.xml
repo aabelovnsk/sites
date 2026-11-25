@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Тетрадь смерти — фан-энциклопедия</title>
+    <title>Тетрадь смерти — фан-портал</title>
     <link>https://note.unqspace.tech/</link>
-    <description>Любительские заметки о мире Тетради смерти</description>
+    <description>Лайт Ягами находит тетрадь синигами, способную убивать тех, чьё имя в ней записано. Интеллектуальная дуэль с детективом L делает сериал эталоном психологического триллера в аниме.</description>
     <language>ru</language>
     <item>
-      <title>О мире</title>
+      <title>О мире Тетрадь смерти</title>
       <link>https://note.unqspace.tech/o-mire/</link>
-      <guid>https://note.unqspace.tech/o-mire/</guid>
+      <description>Лайт Ягами находит тетрадь синигами, способную убивать тех, чьё имя в ней записано. Интеллектуальная дуэль с детективом L делает сериал эталоном психологического триллера в аниме.</description>
     </item>
     <item>
-      <title>Сет энциклопедий</title>
-      <link>https://note.unqspace.tech/set/</link>
-      <guid>https://note.unqspace.tech/set/</guid>
+      <title>Ресурсы и трейлер</title>
+      <link>https://note.unqspace.tech/resursy/</link>
+      <description>Официальные ссылки и трейлер на YouTube</description>
     </item>
   </channel>
 </rss>

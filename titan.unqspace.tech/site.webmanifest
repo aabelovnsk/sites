@@ -1,12 +1,16 @@
 {
   "name": "Атака титанов",
-  "short_name": "Стена",
+  "short_name": "Shingeki no ",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#2c2f2a",
-  "theme_color": "#5a7a4a",
+  "background_color": "#12140f",
+  "theme_color": "#6b8f3c",
   "lang": "ru",
   "icons": [
-    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
   ]
 }

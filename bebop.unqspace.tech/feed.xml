@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Ковбой Бибоп — фан-энциклопедия</title>
+    <title>Ковбой Бибоп — фан-портал</title>
     <link>https://bebop.unqspace.tech/</link>
-    <description>Фан-энциклопедия о мире Ковбоя Бибопа: джаз, охота и долгие перелёты.</description>
+    <description>Охотники за головами на корабле Bebop скитаются по Солнечной системе под джазовый саундтрек The Seatbelts. Режиссура Синъитиро Ватанабэ смешала нуар, вестерн и эпизодические истории о прошлом экипажа.</description>
     <language>ru</language>
     <item>
-      <title>О мире</title>
+      <title>О мире Ковбой Бибоп</title>
       <link>https://bebop.unqspace.tech/o-mire/</link>
-      <guid>https://bebop.unqspace.tech/o-mire/</guid>
+      <description>Охотники за головами на корабле Bebop скитаются по Солнечной системе под джазовый саундтрек The Seatbelts. Режиссура Синъитиро Ватанабэ смешала нуар, вестерн и эпизодические истории о прошлом экипажа.</description>
     </item>
     <item>
-      <title>Сет энциклопедий</title>
-      <link>https://bebop.unqspace.tech/set/</link>
-      <guid>https://bebop.unqspace.tech/set/</guid>
+      <title>Ресурсы и трейлер</title>
+      <link>https://bebop.unqspace.tech/resursy/</link>
+      <description>Официальные ссылки и трейлер на YouTube</description>
     </item>
   </channel>
 </rss>

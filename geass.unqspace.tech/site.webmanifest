@@ -3,8 +3,14 @@
   "short_name": "Код Гиас",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#121018",
-  "theme_color": "#6b4f8a",
+  "background_color": "#0c0a12",
+  "theme_color": "#7c3aed",
   "lang": "ru",
-  "icons": [{"src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml"}]
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
 }

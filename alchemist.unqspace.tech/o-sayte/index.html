@@ -4,22 +4,42 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>О сайте — Стальной алхимик</title>
+  <meta name="description" content="О любительском фан-портале Стальной алхимик.">
   <link rel="stylesheet" href="/static/site.css">
   <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="alternate" type="application/rss+xml" title="Стальной алхимик" href="/feed.xml">
 </head>
 <body>
   <div class="wrap">
     <header class="site-header">
       <a class="brand" href="/">Стальной алхимик</a>
-      <nav class="nav"><a href="/set/">Сет</a><a href="/kontakty.html">Контакты</a></nav>
+      <nav class="nav" aria-label="Разделы">
+        <a href="/o-mire/">О мире</a>
+        <a href="/personazhi/">Персонажи</a>
+        <a href="/resursy/">Ресурсы</a>
+        <a href="/set/">Сеть</a>
+        <a href="/o-sayte/">О сайте</a>
+      </nav>
     </header>
-    <main class="page prose">
+    <main class="page">
       <h1>О сайте</h1>
-      <p>alchemist.unqspace.tech — статическая фан-энциклопедия. Оформление и иллюстрации созданы оригинально (CSS и SVG), без официальных кадров и логотипов.</p>
-      <p>Материалы носят справочный характер для любителей. Правообладатели названий и персонажей к сайту не относятся.</p>
-      <p>ООО «Юник Спейс». Почта: <a href="mailto:info@alchemist.unqspace.tech">info@alchemist.unqspace.tech</a>.</p>
+      <p class="lead">Любительский справочный портал о «Стальной алхимик» (Fullmetal Alchemist).</p>
+      <div class="panel" style="margin-top:1.2rem">
+        <p>Материалы носят ознакомительный характер: атмосфера, факты производства, ссылки на официальные и справочные источники. Мы не размещаем пиратский контент и не храним кадры аниме в репозитории — постеры трейлеров подключаются с YouTube.</p>
+        <p>Оператор сайта: ООО «Юник Спейс». Связь: <a href="mailto:info@alchemist.unqspace.tech">info@alchemist.unqspace.tech</a>.</p>
+      </div>
     </main>
-    <footer class="site-footer"><nav><a href="/">Главная</a><a href="/politika.html">Политика</a></nav></footer>
+    <footer class="site-footer">
+      <nav>
+        <a href="/kontakty.html">Контакты</a>
+        <a href="/politika.html">Политика</a>
+        <a href="/feed.xml">Лента</a>
+        <a href="/set/">Сеть</a>
+        <a href="/resursy/">Ресурсы</a>
+      </nav>
+      <p>© Стальной алхимик · фан-портал · ООО «Юник Спейс»</p>
+    </footer>
   </div>
 </body>
 </html>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Семья шпиона — фан-энциклопедия</title>
+    <title>Семья шпиона — фан-портал</title>
     <link>https://spy.unqspace.tech/</link>
-    <description>Справочник по миру Семья шпиона</description>
+    <description>Фан-портал о Семья шпиона</description>
     <language>ru</language>
     <item>
       <title>О мире</title>
@@ -16,7 +16,12 @@
       <guid>https://spy.unqspace.tech/personazhi/</guid>
     </item>
     <item>
-      <title>Сет энциклопедии</title>
+      <title>Ресурсы</title>
+      <link>https://spy.unqspace.tech/resursy/</link>
+      <guid>https://spy.unqspace.tech/resursy/</guid>
+    </item>
+    <item>
+      <title>Сеть</title>
       <link>https://spy.unqspace.tech/set/</link>
       <guid>https://spy.unqspace.tech/set/</guid>
     </item>

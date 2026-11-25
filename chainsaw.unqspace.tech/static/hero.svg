@@ -1,31 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-label="Тёмный фон и жёлтая пила">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="Decorative overlay">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#1a1a1a"/>
-      <stop offset="55%" stop-color="#0f0f0f"/>
-      <stop offset="100%" stop-color="#1f1a08"/>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f5d76e" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#0e0e0e" stop-opacity="0.1"/>
     </linearGradient>
   </defs>
-  <rect width="1600" height="900" fill="url(#bg)"/>
-  <g opacity="0.25" stroke="#333" stroke-width="2">
-    <path d="M0 200 H1600"/><path d="M0 400 H1600"/><path d="M0 600 H1600"/><path d="M0 800 H1600"/>
-    <path d="M200 0 V900"/><path d="M500 0 V900"/><path d="M900 0 V900"/><path d="M1300 0 V900"/>
-  </g>
-  <ellipse cx="980" cy="420" rx="260" ry="90" fill="#e8d12a" opacity="0.15"/>
-  <path d="M520 480 L1180 380" stroke="#e8d12a" stroke-width="28" stroke-linecap="round"/>
-  <g fill="#e8d12a">
-    <polygon points="560,455 590,440 575,480"/>
-    <polygon points="620,448 650,433 635,473"/>
-    <polygon points="680,441 710,426 695,466"/>
-    <polygon points="740,434 770,419 755,459"/>
-    <polygon points="800,427 830,412 815,452"/>
-    <polygon points="860,420 890,405 875,445"/>
-    <polygon points="920,413 950,398 935,438"/>
-    <polygon points="980,406 1010,391 995,431"/>
-    <polygon points="1040,399 1070,384 1055,424"/>
-    <polygon points="1100,392 1130,377 1115,417"/>
-  </g>
-  <circle cx="480" cy="500" r="48" fill="#2a2a2a" stroke="#e8d12a" stroke-width="6"/>
-  <circle cx="480" cy="500" r="16" fill="#e8d12a"/>
-  <path d="M0 720 H1600" stroke="#e8d12a" stroke-width="3" opacity="0.35"/>
+  <rect width="1200" height="800" fill="#0e0e0e"/>
+  <circle cx="980" cy="160" r="220" fill="url(#g)"/>
+  <circle cx="180" cy="640" r="260" fill="#f5d76e" opacity="0.08"/>
+  <path d="M0 520 C300 460 500 620 1200 480" fill="none" stroke="#333" stroke-width="2" opacity="0.7"/>
+  <path d="M0 560 C340 500 560 660 1200 520" fill="none" stroke="#f5d76e" stroke-width="1.5" opacity="0.45"/>
 </svg>

@@ -1,1 +1,6 @@
-{"status":"ok"}
+{
+  "status": "up",
+  "host": "punch.unqspace.tech",
+  "brand": "One Punch Man",
+  "version": "2.0.0"
+}

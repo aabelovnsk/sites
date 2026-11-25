@@ -1,1 +1,6 @@
-{"status":"ok"}
+{
+  "status": "up",
+  "host": "demon.unqspace.tech",
+  "brand": "Истребитель демонов",
+  "version": "2.0.0"
+}

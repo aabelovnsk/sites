@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Код Гиас — фан-энциклопедия</title>
+    <title>Код Гиас — фан-портал</title>
     <link>https://geass.unqspace.tech/</link>
-    <description>Справочник по миру Код Гиас</description>
+    <description>Фан-портал о Код Гиас</description>
     <language>ru</language>
     <item>
       <title>О мире</title>
@@ -16,7 +16,12 @@
       <guid>https://geass.unqspace.tech/personazhi/</guid>
     </item>
     <item>
-      <title>Сет энциклопедии</title>
+      <title>Ресурсы</title>
+      <link>https://geass.unqspace.tech/resursy/</link>
+      <guid>https://geass.unqspace.tech/resursy/</guid>
+    </item>
+    <item>
+      <title>Сеть</title>
       <link>https://geass.unqspace.tech/set/</link>
       <guid>https://geass.unqspace.tech/set/</guid>
     </item>

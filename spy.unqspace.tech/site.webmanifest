@@ -3,8 +3,14 @@
   "short_name": "Семья шпиона",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#f7eef2",
-  "theme_color": "#1e2a4a",
+  "background_color": "#f7f3f5",
+  "theme_color": "#e91e63",
   "lang": "ru",
-  "icons": [{"src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml"}]
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
 }

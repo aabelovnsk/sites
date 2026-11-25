@@ -1,19 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Ателье колдовских колпаков</title>
+    <title>Ателье колдовских колпаков — фан-портал</title>
     <link>https://atelier.unqspace.tech/</link>
-    <description>Фан-энциклопедия «Ателье колдовских колпаков»</description>
+    <description>Манга Камумэ Сирахамы о девочке Коко, которая мечтает стать ведьмой в мире, где магия рисуется на бумаге. Ателье профессора Кири и строгие законы волшебников — основа сюжета; аниме-адаптация анонсирована студией CloverWorks.</description>
     <language>ru</language>
     <item>
-      <title>О мире</title>
-      <link>https://atelier.unqspace.tech/o-mire/</link>
-      <description>Атмосфера и символы</description>
+      <title>О тайтле: Ателье колдовских колпаков</title>
+      <link>https://atelier.unqspace.tech/</link>
+      <description>Манга Камумэ Сирахамы о девочке Коко, которая мечтает стать ведьмой в мире, где магия рисуется на бумаге. Ателье профессора Кири и строгие законы волшебников — основа сюжета; аниме-адаптация анонсирована студией CloverWorks.</description>
+      <guid>https://atelier.unqspace.tech/#o-taitle</guid>
     </item>
     <item>
-      <title>Сеть энциклопедий</title>
-      <link>https://atelier.unqspace.tech/set/</link>
-      <description>Каталог всех сайтов проекта</description>
+      <title>Ресурсы и трейлеры</title>
+      <link>https://atelier.unqspace.tech/resursy/</link>
+      <description>Официальные ссылки, манга, вики и YouTube-трейлер.</description>
+      <guid>https://atelier.unqspace.tech/resursy/</guid>
     </item>
   </channel>
 </rss>

@@ -1,10 +1,16 @@
 {
   "name": "Человек-бензопила",
-  "short_name": "Бензопила",
+  "short_name": "Человек-бенз…",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#121212",
-  "theme_color": "#e8d12a",
+  "background_color": "#0e0e0e",
+  "theme_color": "#f5d76e",
   "lang": "ru",
-  "icons": [{"src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml"}]
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
 }

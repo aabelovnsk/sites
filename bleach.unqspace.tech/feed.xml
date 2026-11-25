@@ -1,19 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Блич</title>
+    <title>Блич — фан-портал</title>
     <link>https://bleach.unqspace.tech/</link>
-    <description>Фан-энциклопедия «Блич»</description>
+    <description>Ичиго Куросаки получает силы синигами и оказывается между миром людей, Обществом душ и пустыми. Манга Тайто Кубо вернула массовый интерес аркой Thousand-Year Blood War — её аниме-адаптация выходит с 2022 года.</description>
     <language>ru</language>
     <item>
-      <title>О мире</title>
-      <link>https://bleach.unqspace.tech/o-mire/</link>
-      <description>Атмосфера и символы</description>
+      <title>О тайтле: Блич</title>
+      <link>https://bleach.unqspace.tech/</link>
+      <description>Ичиго Куросаки получает силы синигами и оказывается между миром людей, Обществом душ и пустыми. Манга Тайто Кубо вернула массовый интерес аркой Thousand-Year Blood War — её аниме-адаптация выходит с 2022 года.</description>
+      <guid>https://bleach.unqspace.tech/#o-taitle</guid>
     </item>
     <item>
-      <title>Сеть энциклопедий</title>
-      <link>https://bleach.unqspace.tech/set/</link>
-      <description>Каталог всех сайтов проекта</description>
+      <title>Ресурсы и трейлеры</title>
+      <link>https://bleach.unqspace.tech/resursy/</link>
+      <description>Официальные ссылки, манга, вики и YouTube-трейлер.</description>
+      <guid>https://bleach.unqspace.tech/resursy/</guid>
     </item>
   </channel>
 </rss>

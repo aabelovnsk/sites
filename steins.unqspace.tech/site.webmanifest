@@ -3,8 +3,14 @@
   "short_name": "Врата Штейна",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#1a2418",
-  "theme_color": "#3d8f4a",
+  "background_color": "#10140e",
+  "theme_color": "#6dbf4c",
   "lang": "ru",
-  "icons": [{"src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml"}]
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
 }

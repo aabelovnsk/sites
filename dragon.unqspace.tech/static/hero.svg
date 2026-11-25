@@ -1,19 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-label="Оранжевое небо и золотой шар ки">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="Decorative overlay">
   <defs>
-    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#ffb347"/>
-      <stop offset="40%" stop-color="#ff8c42"/>
-      <stop offset="100%" stop-color="#e06820"/>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ff9800" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#140e08" stop-opacity="0.1"/>
     </linearGradient>
   </defs>
-  <rect width="1600" height="900" fill="#ff9a3c"/>
-  <rect width="1600" height="900" fill="url(#sky)"/>
-  <circle cx="1180" cy="220" r="90" fill="#ffe08a" opacity="0.95"/>
-  <circle cx="1180" cy="220" r="140" fill="none" stroke="#ffd26a" stroke-width="8" opacity="0.45"/>
-  <circle cx="1180" cy="220" r="190" fill="none" stroke="#ffc04d" stroke-width="4" opacity="0.28"/>
-  <path d="M0 560 Q300 480 520 540 T980 500 T1600 560 L1600 900 L0 900 Z" fill="#c46a28" opacity="0.55"/>
-  <path d="M0 640 Q280 580 560 620 T1100 580 T1600 650 L1600 900 L0 900 Z" fill="#8f4a1e" opacity="0.65"/>
-  <ellipse cx="420" cy="480" rx="70" ry="28" fill="#ffd56a" opacity="0.75"/>
-  <path d="M420 452 Q450 420 480 452 Q450 445 420 452" fill="#fff3c0"/>
-  <path d="M900 700 L940 560 L980 700 Z" fill="#f0c050" opacity="0.8"/>
+  <rect width="1200" height="800" fill="#140e08"/>
+  <circle cx="980" cy="160" r="220" fill="url(#g)"/>
+  <circle cx="180" cy="640" r="260" fill="#ff9800" opacity="0.08"/>
+  <path d="M0 520 C300 460 500 620 1200 480" fill="none" stroke="#3a2c1e" stroke-width="2" opacity="0.7"/>
+  <path d="M0 560 C340 500 560 660 1200 520" fill="none" stroke="#ff9800" stroke-width="1.5" opacity="0.45"/>
 </svg>

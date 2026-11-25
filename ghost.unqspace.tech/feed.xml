@@ -1,19 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Призрак в доспехах</title>
+    <title>Призрак в доспехах — фан-портал</title>
     <link>https://ghost.unqspace.tech/</link>
-    <description>Фан-энциклопедия «Призрак в доспехах»</description>
+    <description>Культовая киберпанк-франшиза Масамунэ Сиро о майоре Мотоко Кусанаги и отделе общественной безопасности 9. Исследует границы личности, когда тело и сознание можно заменить технологией.</description>
     <language>ru</language>
     <item>
-      <title>О мире</title>
-      <link>https://ghost.unqspace.tech/o-mire/</link>
-      <description>Атмосфера и символы</description>
+      <title>О тайтле: Призрак в доспехах</title>
+      <link>https://ghost.unqspace.tech/</link>
+      <description>Культовая киберпанк-франшиза Масамунэ Сиро о майоре Мотоко Кусанаги и отделе общественной безопасности 9. Исследует границы личности, когда тело и сознание можно заменить технологией. Фильм 1995 года и сериал Stand Alone Complex определили визуальный язык цифрового будущего для всего мира аниме.</description>
+      <guid>https://ghost.unqspace.tech/#o-taitle</guid>
     </item>
     <item>
-      <title>Сеть энциклопедий</title>
-      <link>https://ghost.unqspace.tech/set/</link>
-      <description>Каталог всех сайтов проекта</description>
+      <title>Ресурсы и трейлеры</title>
+      <link>https://ghost.unqspace.tech/resursy/</link>
+      <description>Официальные ссылки, манга, вики и YouTube-трейлер.</description>
+      <guid>https://ghost.unqspace.tech/resursy/</guid>
     </item>
   </channel>
 </rss>

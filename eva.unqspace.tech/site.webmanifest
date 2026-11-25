@@ -1,10 +1,16 @@
 {
   "name": "Евангелион",
-  "short_name": "Ева",
+  "short_name": "Евангелион",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#1a1424",
-  "theme_color": "#c47a3a",
+  "background_color": "#0d0a12",
+  "theme_color": "#9b59b6",
   "lang": "ru",
-  "icons": [{"src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml"}]
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
 }

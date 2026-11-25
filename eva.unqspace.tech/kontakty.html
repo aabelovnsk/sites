@@ -4,26 +4,45 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Контакты — Евангелион</title>
+  <meta name="description" content="Связь с редакцией портала Евангелион.">
   <link rel="stylesheet" href="/static/site.css">
   <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="alternate" type="application/rss+xml" title="Евангелион" href="/feed.xml">
 </head>
 <body>
   <div class="wrap">
     <header class="site-header">
       <a class="brand" href="/">Евангелион</a>
-      <nav class="nav"><a href="/o-sayte/">О сайте</a><a href="/politika.html">Политика</a></nav>
+      <nav class="nav" aria-label="Разделы">
+        <a href="/o-mire/">О мире</a>
+        <a href="/personazhi/">Персонажи</a>
+        <a href="/resursy/">Ресурсы</a>
+        <a href="/set/">Сеть</a>
+        <a href="/o-sayte/">О сайте</a>
+      </nav>
     </header>
     <main class="page">
       <h1>Контакты</h1>
-      <p>ООО «Юник Спейс».</p>
-      <p>Электронная почта: <a href="mailto:info@eva.unqspace.tech">info@eva.unqspace.tech</a></p>
-      <form class="form" action="#" method="post">
-        <label>Имя <input type="text" name="name" autocomplete="name"></label>
-        <label>Сообщение <textarea name="message" rows="5"></textarea></label>
-        <button type="submit">Отправить</button>
-      </form>
+      <p class="lead">По вопросам сотрудничества и замечаниям к материалам портала.</p>
+      <div class="panel" style="margin-top:1.2rem">
+        <div class="meta-grid">
+          <div class="meta-item"><span class="meta-label">Email</span><span class="meta-value"><a href="mailto:info@eva.unqspace.tech">info@eva.unqspace.tech</a></span></div>
+          <div class="meta-item"><span class="meta-label">Организация</span><span class="meta-value">ООО «Юник Спейс»</span></div>
+          <div class="meta-item"><span class="meta-label">Хост</span><span class="meta-value">eva.unqspace.tech</span></div>
+        </div>
+      </div>
     </main>
-    <footer class="site-footer"><nav><a href="/">Главная</a><a href="/politika.html">Политика</a></nav></footer>
+    <footer class="site-footer">
+      <nav>
+        <a href="/kontakty.html">Контакты</a>
+        <a href="/politika.html">Политика</a>
+        <a href="/feed.xml">Лента</a>
+        <a href="/set/">Сеть</a>
+        <a href="/resursy/">Ресурсы</a>
+      </nav>
+      <p>© Евангелион · фан-портал · ООО «Юник Спейс»</p>
+    </footer>
   </div>
 </body>
 </html>

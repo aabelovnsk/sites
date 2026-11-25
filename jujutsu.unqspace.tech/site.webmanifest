@@ -1,10 +1,16 @@
 {
   "name": "Магическая битва",
-  "short_name": "Магбитва",
+  "short_name": "Магическая б",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#0c1428",
-  "theme_color": "#b33a48",
+  "background_color": "#0c1014",
+  "theme_color": "#2dd4bf",
   "lang": "ru",
-  "icons": [{"src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml"}]
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
 }
