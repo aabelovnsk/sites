@@ -245,3 +245,12 @@ a:hover { filter: brightness(1.12); }
 @media (prefers-reduced-motion: reduce) {
   *,*::before,*::after { animation: none !important; transition: none !important; }
 }
+img.poster {
+  display: block;
+  max-width: min(220px, 42vw);
+  width: 100%;
+  height: auto;
+  margin: 0 0 1.1rem;
+  border: 1px solid var(--line);
+  box-shadow: 0 12px 36px color-mix(in srgb, #000 35%, transparent);
+}

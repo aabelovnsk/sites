@@ -1,0 +1,176 @@
+{
+  "note": "RF-accessible trailers (VK/Kinopoisk) + Kinopoisk/Yandex CDN posters. No YouTube.",
+  "poster_tpl": "https://st.kp.yandex.net/images/film_big/{id}.jpg",
+  "poster_tpl_hi": "https://st.kp.yandex.net/images/film_iphone/iphone360_{id}.jpg",
+  "items": {
+    "ghost.unqspace.tech": {
+      "kp_id": "8146",
+      "trailer_vk": "https://vk.com/video_ext.php?oid=-34542655&id=171498639",
+      "trailer_page": "https://vk.com/video-34542655_171498639",
+      "trailer_kp": "https://www.kinopoisk.ru/film/8146/",
+      "poster": "https://st.kp.yandex.net/images/film_big/8146.jpg"
+    },
+    "demon.unqspace.tech": {
+      "kp_id": "1227897",
+      "trailer_vk": "https://vk.com/video-73629052_456249631",
+      "trailer_page": "https://vk.com/video-73629052_456249631",
+      "trailer_kp": "https://www.kinopoisk.ru/series/1227897/",
+      "trailer_ok": "https://ok.ru/video/9682752440840",
+      "poster": "https://st.kp.yandex.net/images/film_big/1227897.jpg"
+    },
+    "piece.unqspace.tech": {
+      "kp_id": "251080",
+      "trailer_vk": "https://vk.com/video-36189073_456240777",
+      "trailer_page": "https://vk.com/video-36189073_456240777",
+      "trailer_kp": "https://www.kinopoisk.ru/series/251080/",
+      "poster": "https://st.kp.yandex.net/images/film_big/251080.jpg"
+    },
+    "punch.unqspace.tech": {
+      "kp_id": "840234",
+      "trailer_vk": "https://vk.com/video-34788285_456257977",
+      "trailer_page": "https://www.kinopoisk.ru/series/840234/video/",
+      "trailer_kp": "https://www.kinopoisk.ru/series/840234/",
+      "poster": "https://st.kp.yandex.net/images/film_big/840234.jpg"
+    },
+    "titan.unqspace.tech": {
+      "kp_id": "749674",
+      "trailer_vk": "https://vk.com/video-73629052_456249581",
+      "trailer_page": "https://vk.com/video-73629052_456249581",
+      "trailer_kp": "https://www.kinopoisk.ru/series/749674/",
+      "poster": "https://st.kp.yandex.net/images/film_big/749674.jpg"
+    },
+    "bleach.unqspace.tech": {
+      "kp_id": "256886",
+      "trailer_vk": "https://vk.com/video-34788285_456258677",
+      "trailer_page": "https://www.kinopoisk.ru/series/256886/video/",
+      "trailer_kp": "https://www.kinopoisk.ru/series/256886/",
+      "poster": "https://st.kp.yandex.net/images/film_big/256886.jpg"
+    },
+    "atelier.unqspace.tech": {
+      "kp_id": "5539750",
+      "trailer_vk": "https://vk.com/video-34788285_456257544",
+      "trailer_page": "https://www.kinopoisk.ru/series/5539750/video/",
+      "trailer_kp": "https://www.kinopoisk.ru/series/5539750/",
+      "poster": "https://st.kp.yandex.net/images/film_big/5539750.jpg"
+    },
+    "naruto.unqspace.tech": {
+      "kp_id": "255380",
+      "trailer_vk": "https://vk.com/video-169888155_456239423",
+      "trailer_page": "https://vk.com/video-169888155_456239423",
+      "trailer_kp": "https://www.kinopoisk.ru/series/255380/",
+      "poster": "https://st.kp.yandex.net/images/film_big/255380.jpg"
+    },
+    "note.unqspace.tech": {
+      "kp_id": "195478",
+      "trailer_vk": "https://vk.com/video-34542655_456244662",
+      "trailer_page": "https://vk.com/video-34542655_456244662",
+      "trailer_kp": "https://www.kinopoisk.ru/series/195478/",
+      "poster": "https://st.kp.yandex.net/images/film_big/195478.jpg"
+    },
+    "alchemist.unqspace.tech": {
+      "kp_id": "256325",
+      "trailer_vk": "https://vk.com/video-34542655_456243664",
+      "trailer_page": "https://vk.com/video-34542655_456243664",
+      "trailer_kp": "https://www.kinopoisk.ru/series/256325/",
+      "poster": "https://st.kp.yandex.net/images/film_big/256325.jpg"
+    },
+    "eva.unqspace.tech": {
+      "kp_id": "251100",
+      "trailer_vk": "https://www.kinopoisk.ru/series/251100/video/",
+      "trailer_page": "https://www.kinopoisk.ru/series/251100/video/",
+      "trailer_kp": "https://www.kinopoisk.ru/series/251100/",
+      "poster": "https://st.kp.yandex.net/images/film_big/251100.jpg"
+    },
+    "bebop.unqspace.tech": {
+      "kp_id": "251099",
+      "trailer_vk": "https://www.kinopoisk.ru/series/251099/video/",
+      "trailer_page": "https://www.kinopoisk.ru/series/251099/video/",
+      "trailer_kp": "https://www.kinopoisk.ru/series/251099/",
+      "poster": "https://st.kp.yandex.net/images/film_big/251099.jpg"
+    },
+    "spirited.unqspace.tech": {
+      "kp_id": "370",
+      "trailer_vk": "https://www.kinopoisk.ru/film/370/video/",
+      "trailer_page": "https://www.kinopoisk.ru/film/370/video/",
+      "trailer_kp": "https://www.kinopoisk.ru/film/370/",
+      "poster": "https://st.kp.yandex.net/images/film_big/370.jpg"
+    },
+    "jujutsu.unqspace.tech": {
+      "kp_id": "1394270",
+      "trailer_vk": "https://vk.com/video-158096571_456240250",
+      "trailer_page": "https://vk.com/video-158096571_456240250",
+      "trailer_kp": "https://www.kinopoisk.ru/series/1394270/",
+      "poster": "https://st.kp.yandex.net/images/film_big/1394270.jpg"
+    },
+    "hero.unqspace.tech": {
+      "kp_id": "971456",
+      "trailer_vk": "https://www.kinopoisk.ru/series/971456/video/",
+      "trailer_page": "https://www.kinopoisk.ru/series/971456/video/",
+      "trailer_kp": "https://www.kinopoisk.ru/series/971456/",
+      "poster": "https://st.kp.yandex.net/images/film_big/971456.jpg"
+    },
+    "ghoul.unqspace.tech": {
+      "kp_id": "840054",
+      "trailer_vk": "https://www.kinopoisk.ru/series/840054/video/",
+      "trailer_page": "https://www.kinopoisk.ru/series/840054/video/",
+      "trailer_kp": "https://www.kinopoisk.ru/series/840054/",
+      "poster": "https://st.kp.yandex.net/images/film_big/840054.jpg"
+    },
+    "mob.unqspace.tech": {
+      "kp_id": "943207",
+      "trailer_vk": "https://www.kinopoisk.ru/series/943207/video/",
+      "trailer_page": "https://www.kinopoisk.ru/series/943207/video/",
+      "trailer_kp": "https://www.kinopoisk.ru/series/943207/",
+      "poster": "https://st.kp.yandex.net/images/film_big/943207.jpg"
+    },
+    "hunter.unqspace.tech": {
+      "kp_id": "679560",
+      "trailer_vk": "https://www.kinopoisk.ru/series/679560/video/",
+      "trailer_page": "https://www.kinopoisk.ru/series/679560/video/",
+      "trailer_kp": "https://www.kinopoisk.ru/series/679560/",
+      "poster": "https://st.kp.yandex.net/images/film_big/679560.jpg"
+    },
+    "dragon.unqspace.tech": {
+      "kp_id": "252088",
+      "trailer_vk": "https://www.kinopoisk.ru/series/252088/video/",
+      "trailer_page": "https://www.kinopoisk.ru/series/252088/video/",
+      "trailer_kp": "https://www.kinopoisk.ru/series/252088/",
+      "poster": "https://st.kp.yandex.net/images/film_big/252088.jpg"
+    },
+    "chainsaw.unqspace.tech": {
+      "kp_id": "4474710",
+      "trailer_vk": "https://www.kinopoisk.ru/series/4474710/video/",
+      "trailer_page": "https://www.kinopoisk.ru/series/4474710/video/",
+      "trailer_kp": "https://www.kinopoisk.ru/series/4474710/",
+      "poster": "https://st.kp.yandex.net/images/film_big/4474710.jpg"
+    },
+    "spy.unqspace.tech": {
+      "kp_id": "4443157",
+      "trailer_vk": "https://www.kinopoisk.ru/series/4443157/video/",
+      "trailer_page": "https://www.kinopoisk.ru/series/4443157/video/",
+      "trailer_kp": "https://www.kinopoisk.ru/series/4443157/",
+      "poster": "https://st.kp.yandex.net/images/film_big/4443157.jpg"
+    },
+    "steins.unqspace.tech": {
+      "kp_id": "582314",
+      "trailer_vk": "https://www.kinopoisk.ru/series/582314/video/",
+      "trailer_page": "https://www.kinopoisk.ru/series/582314/video/",
+      "trailer_kp": "https://www.kinopoisk.ru/series/582314/",
+      "poster": "https://st.kp.yandex.net/images/film_big/582314.jpg"
+    },
+    "geass.unqspace.tech": {
+      "kp_id": "256320",
+      "trailer_vk": "https://www.kinopoisk.ru/series/256320/video/",
+      "trailer_page": "https://www.kinopoisk.ru/series/256320/video/",
+      "trailer_kp": "https://www.kinopoisk.ru/series/256320/",
+      "poster": "https://st.kp.yandex.net/images/film_big/256320.jpg"
+    },
+    "frieren.unqspace.tech": {
+      "kp_id": "5059680",
+      "trailer_vk": "https://vk.com/video-12323082_456251258",
+      "trailer_page": "https://vk.com/video-12323082_456251258",
+      "trailer_kp": "https://www.kinopoisk.ru/series/5059680/",
+      "poster": "https://st.kp.yandex.net/images/film_big/5059680.jpg"
+    }
+  }
+}
